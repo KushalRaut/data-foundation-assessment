@@ -1,5 +1,9 @@
 # Defensive Effectiveness and Group-Stage Progression
 
+**Student:** Kushal Raut
+
+**Student number:** 399210
+
 ## Analytic question
 
 **Did teams that advanced from the FIFA World Cup 2026 group stage allow fewer shots on target per match than teams that were eliminated?**

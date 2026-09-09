@@ -11,13 +11,10 @@ topics/
     analysis.py     # Entire topic workflow
     data/           # Source evidence and input datasets
     outputs/        # Prepared datasets, statistical results and charts
-  02_topic_pending/ # Same structure; not implemented
-  03_topic_pending/ # Same structure; not implemented
-  04_topic_pending/ # Same structure; not implemented
 requirements.txt
 ```
 
-Use one topic folder per team member and one Python script per topic. Keep source data in `data/`, code beside that folder, and generated results in `outputs/`. Rename pending folders when questions are agreed. Each topic must investigate a different focal variable; changing groups while analysing the same variable is not sufficient.
+Use one topic folder per team member and one Python script per topic. Keep source data in `data/`, code beside that folder, and generated results in `outputs/`. The other three team members will upload their own topic folders. Each topic must investigate a different focal variable; changing groups while analysing the same variable is not sufficient.
 
 ## Run the existing topic
 
@@ -30,7 +27,7 @@ python -m pip install -r requirements.txt
 python topics/01_defensive_effectiveness/analysis.py
 ```
 
-The defensive-effectiveness workflow rebuilds its dataset from committed evidence and runs without downloading data. Outputs are committed so reviewers can inspect the datasets and results. The other three scripts are explicit placeholders.
+The defensive-effectiveness workflow rebuilds its dataset from committed evidence and runs without downloading data. Outputs are committed so reviewers can inspect the datasets and results. The defensive-effectiveness topic belongs to **Kushal Raut (student number: 399210)**. The other three topics will be uploaded by the respective team members.
 
 ## Required for every topic
 
