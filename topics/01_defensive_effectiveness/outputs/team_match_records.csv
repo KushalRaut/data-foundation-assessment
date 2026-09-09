@@ -1,0 +1,145 @@
+match_id,group,team,opponent,shots_on_target_conceded,advanced,progression
+400021443,A,Mexico,South Africa,2,True,Advanced
+400021441,A,South Korea,Czech Republic,4,False,Eliminated
+400021440,A,Czech Republic,South Africa,4,False,Eliminated
+400021442,A,Mexico,South Korea,2,True,Advanced
+400021444,A,Czech Republic,Mexico,5,False,Eliminated
+400021445,A,South Africa,South Korea,3,True,Advanced
+400021449,B,Canada,Bosnia and Herzegovina,3,True,Advanced
+400021447,B,Qatar,Switzerland,7,False,Eliminated
+400021446,B,Switzerland,Bosnia and Herzegovina,3,True,Advanced
+400021450,B,Canada,Qatar,0,True,Advanced
+400021451,B,Switzerland,Canada,7,True,Advanced
+400021448,B,Bosnia and Herzegovina,Qatar,3,True,Advanced
+400021456,C,Brazil,Morocco,3,True,Advanced
+400021453,C,Haiti,Scotland,2,False,Eliminated
+400021454,C,Scotland,Morocco,2,False,Eliminated
+400021457,C,Brazil,Haiti,3,True,Advanced
+400021455,C,Scotland,Brazil,8,False,Eliminated
+400021452,C,Morocco,Haiti,2,True,Advanced
+400021458,D,United States,Paraguay,1,True,Advanced
+400021463,D,Australia,Turkey,8,True,Advanced
+400021462,D,United States,Australia,2,True,Advanced
+400021460,D,Turkey,Paraguay,2,False,Eliminated
+400021459,D,Turkey,United States,7,False,Eliminated
+400021461,D,Paraguay,Australia,5,True,Advanced
+400021464,E,Germany,Curaçao,2,True,Advanced
+400021467,E,Ivory Coast,Ecuador,1,True,Advanced
+400021469,E,Germany,Ivory Coast,2,True,Advanced
+400021465,E,Ecuador,Curaçao,3,True,Advanced
+400021468,E,Curaçao,Ivory Coast,3,False,Eliminated
+400021466,E,Ecuador,Germany,3,True,Advanced
+400021470,F,Netherlands,Japan,3,True,Advanced
+400021474,F,Sweden,Tunisia,2,True,Advanced
+400021472,F,Netherlands,Sweden,8,True,Advanced
+400021475,F,Tunisia,Japan,5,False,Eliminated
+400021471,F,Japan,Sweden,5,True,Advanced
+400021473,F,Tunisia,Netherlands,7,False,Eliminated
+400021478,G,Belgium,Egypt,4,True,Advanced
+400021476,G,Iran,New Zealand,8,False,Eliminated
+400021477,G,Belgium,Iran,3,True,Advanced
+400021480,G,New Zealand,Egypt,7,False,Eliminated
+400021479,G,Egypt,Iran,4,True,Advanced
+400021481,G,New Zealand,Belgium,10,False,Eliminated
+400021482,H,Spain,Cape Verde,1,True,Advanced
+400021486,H,Saudi Arabia,Uruguay,11,False,Eliminated
+400021483,H,Spain,Saudi Arabia,1,True,Advanced
+400021487,H,Uruguay,Cape Verde,4,False,Eliminated
+400021485,H,Cape Verde,Saudi Arabia,3,True,Advanced
+400021484,H,Uruguay,Spain,1,False,Eliminated
+400021490,I,France,Senegal,2,True,Advanced
+400021488,I,Iraq,Norway,5,False,Eliminated
+400021492,I,France,Iraq,0,True,Advanced
+400021491,I,Norway,Senegal,4,True,Advanced
+400021489,I,Norway,France,9,True,Advanced
+400021493,I,Senegal,Iraq,1,True,Advanced
+400021496,J,Argentina,Algeria,0,True,Advanced
+400021498,J,Austria,Jordan,4,True,Advanced
+400021494,J,Argentina,Austria,1,True,Advanced
+400021499,J,Jordan,Algeria,8,False,Eliminated
+400021497,J,Algeria,Austria,3,True,Advanced
+400021495,J,Jordan,Argentina,4,False,Eliminated
+400021502,K,Portugal,DR Congo,2,True,Advanced
+400021504,K,Uzbekistan,Colombia,4,False,Eliminated
+400021503,K,Portugal,Uzbekistan,2,True,Advanced
+400021501,K,Colombia,DR Congo,2,True,Advanced
+400021505,K,Colombia,Portugal,2,True,Advanced
+400021500,K,DR Congo,Uzbekistan,1,True,Advanced
+400021507,L,England,Croatia,5,True,Advanced
+400021510,L,Ghana,Panama,4,True,Advanced
+400021506,L,England,Ghana,1,True,Advanced
+400021511,L,Panama,Croatia,2,False,Eliminated
+400021508,L,Panama,England,6,False,Eliminated
+400021509,L,Croatia,Ghana,1,True,Advanced
+400021443,A,South Africa,Mexico,4,True,Advanced
+400021441,A,Czech Republic,South Korea,6,False,Eliminated
+400021440,A,South Africa,Czech Republic,3,True,Advanced
+400021442,A,South Korea,Mexico,4,False,Eliminated
+400021444,A,Mexico,Czech Republic,1,True,Advanced
+400021445,A,South Korea,South Africa,4,False,Eliminated
+400021449,B,Bosnia and Herzegovina,Canada,4,True,Advanced
+400021447,B,Switzerland,Qatar,3,True,Advanced
+400021446,B,Bosnia and Herzegovina,Switzerland,7,True,Advanced
+400021450,B,Qatar,Canada,10,False,Eliminated
+400021451,B,Canada,Switzerland,4,True,Advanced
+400021448,B,Qatar,Bosnia and Herzegovina,5,False,Eliminated
+400021456,C,Morocco,Brazil,5,True,Advanced
+400021453,C,Scotland,Haiti,2,False,Eliminated
+400021454,C,Morocco,Scotland,0,True,Advanced
+400021457,C,Haiti,Brazil,5,False,Eliminated
+400021455,C,Brazil,Scotland,5,True,Advanced
+400021452,C,Haiti,Morocco,11,False,Eliminated
+400021458,D,Paraguay,United States,6,True,Advanced
+400021463,D,Turkey,Australia,4,False,Eliminated
+400021462,D,Australia,United States,2,True,Advanced
+400021460,D,Paraguay,Turkey,5,True,Advanced
+400021459,D,United States,Turkey,4,True,Advanced
+400021461,D,Australia,Paraguay,2,True,Advanced
+400021464,E,Curaçao,Germany,11,False,Eliminated
+400021467,E,Ecuador,Ivory Coast,4,True,Advanced
+400021469,E,Ivory Coast,Germany,7,True,Advanced
+400021465,E,Curaçao,Ecuador,15,False,Eliminated
+400021468,E,Ivory Coast,Curaçao,2,True,Advanced
+400021466,E,Germany,Ecuador,3,True,Advanced
+400021470,F,Japan,Netherlands,6,True,Advanced
+400021474,F,Tunisia,Sweden,7,False,Eliminated
+400021472,F,Sweden,Netherlands,7,True,Advanced
+400021475,F,Japan,Tunisia,0,True,Advanced
+400021471,F,Sweden,Japan,3,True,Advanced
+400021473,F,Netherlands,Tunisia,4,True,Advanced
+400021478,G,Egypt,Belgium,3,True,Advanced
+400021476,G,New Zealand,Iran,4,False,Eliminated
+400021477,G,Iran,Belgium,7,False,Eliminated
+400021480,G,Egypt,New Zealand,5,True,Advanced
+400021479,G,Iran,Egypt,3,False,Eliminated
+400021481,G,Belgium,New Zealand,2,True,Advanced
+400021482,H,Cape Verde,Spain,7,True,Advanced
+400021486,H,Uruguay,Saudi Arabia,3,False,Eliminated
+400021483,H,Saudi Arabia,Spain,8,False,Eliminated
+400021487,H,Cape Verde,Uruguay,2,True,Advanced
+400021485,H,Saudi Arabia,Cape Verde,2,False,Eliminated
+400021484,H,Spain,Uruguay,1,True,Advanced
+400021490,I,Senegal,France,8,True,Advanced
+400021488,I,Norway,Iraq,1,True,Advanced
+400021492,I,Iraq,France,5,False,Eliminated
+400021491,I,Senegal,Norway,7,True,Advanced
+400021489,I,France,Norway,4,True,Advanced
+400021493,I,Iraq,Senegal,12,False,Eliminated
+400021496,J,Algeria,Argentina,6,True,Advanced
+400021498,J,Jordan,Austria,4,False,Eliminated
+400021494,J,Austria,Argentina,4,True,Advanced
+400021499,J,Algeria,Jordan,4,True,Advanced
+400021497,J,Austria,Algeria,5,True,Advanced
+400021495,J,Argentina,Jordan,1,True,Advanced
+400021502,K,DR Congo,Portugal,1,True,Advanced
+400021504,K,Colombia,Uzbekistan,2,True,Advanced
+400021503,K,Uzbekistan,Portugal,8,False,Eliminated
+400021501,K,DR Congo,Colombia,9,True,Advanced
+400021505,K,Portugal,Colombia,6,True,Advanced
+400021500,K,Uzbekistan,DR Congo,4,False,Eliminated
+400021507,L,Croatia,England,11,True,Advanced
+400021510,L,Panama,Ghana,2,False,Eliminated
+400021506,L,Ghana,England,3,True,Advanced
+400021511,L,Croatia,Panama,1,True,Advanced
+400021508,L,England,Panama,2,True,Advanced
+400021509,L,Ghana,Croatia,4,True,Advanced

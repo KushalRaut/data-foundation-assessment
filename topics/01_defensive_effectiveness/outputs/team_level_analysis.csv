@@ -1,0 +1,49 @@
+group,team,advanced,progression,matches_played,total_shots_on_target_conceded,average_shots_on_target_conceded
+J,Argentina,True,Advanced,3,2,0.6666666666666666
+H,Spain,True,Advanced,3,3,1.0
+A,Mexico,True,Advanced,3,5,1.6666666666666667
+K,Colombia,True,Advanced,3,6,2.0
+I,France,True,Advanced,3,6,2.0
+B,Canada,True,Advanced,3,7,2.3333333333333335
+E,Germany,True,Advanced,3,7,2.3333333333333335
+C,Morocco,True,Advanced,3,7,2.3333333333333335
+D,United States,True,Advanced,3,7,2.3333333333333335
+L,England,True,Advanced,3,8,2.6666666666666665
+G,Belgium,True,Advanced,3,9,3.0
+E,Ecuador,True,Advanced,3,10,3.3333333333333335
+E,Ivory Coast,True,Advanced,3,10,3.3333333333333335
+K,Portugal,True,Advanced,3,10,3.3333333333333335
+A,South Africa,True,Advanced,3,10,3.3333333333333335
+C,Brazil,True,Advanced,3,11,3.6666666666666665
+K,DR Congo,True,Advanced,3,11,3.6666666666666665
+L,Ghana,True,Advanced,3,11,3.6666666666666665
+F,Japan,True,Advanced,3,11,3.6666666666666665
+D,Australia,True,Advanced,3,12,4.0
+H,Cape Verde,True,Advanced,3,12,4.0
+G,Egypt,True,Advanced,3,12,4.0
+F,Sweden,True,Advanced,3,12,4.0
+J,Algeria,True,Advanced,3,13,4.333333333333333
+J,Austria,True,Advanced,3,13,4.333333333333333
+L,Croatia,True,Advanced,3,13,4.333333333333333
+B,Switzerland,True,Advanced,3,13,4.333333333333333
+B,Bosnia and Herzegovina,True,Advanced,3,14,4.666666666666667
+I,Norway,True,Advanced,3,14,4.666666666666667
+F,Netherlands,True,Advanced,3,15,5.0
+D,Paraguay,True,Advanced,3,16,5.333333333333333
+I,Senegal,True,Advanced,3,16,5.333333333333333
+H,Uruguay,False,Eliminated,3,8,2.6666666666666665
+L,Panama,False,Eliminated,3,10,3.3333333333333335
+C,Scotland,False,Eliminated,3,12,4.0
+A,South Korea,False,Eliminated,3,12,4.0
+D,Turkey,False,Eliminated,3,13,4.333333333333333
+A,Czech Republic,False,Eliminated,3,15,5.0
+J,Jordan,False,Eliminated,3,16,5.333333333333333
+K,Uzbekistan,False,Eliminated,3,16,5.333333333333333
+C,Haiti,False,Eliminated,3,18,6.0
+G,Iran,False,Eliminated,3,18,6.0
+F,Tunisia,False,Eliminated,3,19,6.333333333333333
+G,New Zealand,False,Eliminated,3,21,7.0
+H,Saudi Arabia,False,Eliminated,3,21,7.0
+I,Iraq,False,Eliminated,3,22,7.333333333333333
+B,Qatar,False,Eliminated,3,22,7.333333333333333
+E,Curaçao,False,Eliminated,3,29,9.666666666666666

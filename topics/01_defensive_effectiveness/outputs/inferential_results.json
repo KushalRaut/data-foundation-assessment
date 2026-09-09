@@ -1,0 +1,19 @@
+{
+  "question": "Did advancing teams allow fewer shots on target per group-stage match than eliminated teams?",
+  "unit_of_analysis": "Team (mean across all three group-stage matches)",
+  "advanced_n": 32,
+  "eliminated_n": 16,
+  "mean_difference_advanced_minus_eliminated": -2.270833333333333,
+  "confidence_level": 0.95,
+  "ci_low": -3.2981663598309767,
+  "ci_high": -1.2435003068356894,
+  "test": "Two-sided Welch independent-samples t-test",
+  "null_hypothesis": "The population mean shots on target conceded per match is equal for advancing and eliminated teams.",
+  "alternative_hypothesis": "The population means differ.",
+  "t_statistic": -4.586327869784053,
+  "degrees_of_freedom": 21.8190090680333,
+  "p_value": 0.0001467680434174405,
+  "alpha": 0.05,
+  "cohens_d": -1.6048738869558332,
+  "decision": "Reject H0"
+}
