@@ -8,7 +8,7 @@ Group assessment: four distinct Python analyses of FIFA World Cup 2026 data.
 topics/
   01_defensive_effectiveness/
     README.md       # Question, methods, results and limitations
-    analysis.py     # Entire topic workflow
+    analyse_defensive_effectiveness.py     # Entire topic workflow
     data/           # Source evidence and input datasets
     outputs/        # Prepared datasets, statistical results and charts
 requirements.txt
@@ -24,7 +24,7 @@ Python 3.10 or later:
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
-python topics/01_defensive_effectiveness/analysis.py
+python topics/01_defensive_effectiveness/analyse_defensive_effectiveness.py
 ```
 
 The defensive-effectiveness workflow rebuilds its dataset from committed evidence and runs without downloading data. Outputs are committed so reviewers can inspect the datasets and results. The defensive-effectiveness topic belongs to **Kushal Raut (student number: 399210)**. The other three topics will be uploaded by the respective team members.

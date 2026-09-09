@@ -11,6 +11,7 @@ import numpy as np
 import pandas as pd
 from scipy import stats
 
+# Resolve paths from this file so the workflow runs from any working directory.
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 OUTPUTS = ROOT / "outputs"
@@ -18,6 +19,7 @@ OUTPUTS = ROOT / "outputs"
 
 # Full-time reports that could not be extracted are completed with the official
 # FIFA match page / FIFA Training Centre post-match summary report.
+# Keys are source-record indices; values are team A/B shots on target and source type.
 FALLBACK = {
     3: (4, 2, "FIFA Training Centre post-match summary"),
     8: (7, 3, "FIFA Training Centre post-match summary"),
@@ -30,16 +32,20 @@ FALLBACK = {
 
 
 def clean_team(name: str) -> str:
+    """Normalize non-breaking spaces and surrounding whitespace in team names."""
     return name.replace("\xa0", " ").strip()
 
 
 def build_dataset() -> None:
+    """Rebuild one row per match from saved FIFA evidence, retaining source URLs."""
     records = json.loads((DATA / "source_records.json").read_text())
     rows = []
 
     for record in records:
         i = record["index"]
         excerpt = record["fulltime_excerpt"]
+        # Capture total attempts and shots on target for both teams from the
+        # team-statistics row, keeping one consistent definition across reports.
         match = re.search(
             r"(\d+)\s*/\s*(\d+) Attempts at Goal \(Total/On Target\) "
             r"(\d+)\s*/\s*(\d+)",
@@ -51,6 +57,8 @@ def build_dataset() -> None:
             evidence_url = record["fulltime_url"]
         else:
             sot_a, sot_b, evidence = FALLBACK[i]
+            # Fallback evidence supplies shots on target only; unknown totals
+            # stay missing rather than being incorrectly recorded as zero.
             total_a = total_b = pd.NA
             evidence_url = (
                 record["match_url"]
@@ -78,6 +86,7 @@ def build_dataset() -> None:
             }
         )
 
+    # Check the expected group-stage coverage before saving the rebuilt input.
     output = pd.DataFrame(rows)
     assert len(output) == 72
     assert output[["team_a_shots_on_target", "team_b_shots_on_target"]].notna().all().all()
@@ -89,6 +98,7 @@ def build_dataset() -> None:
 
 
 def descriptive(values: pd.Series) -> dict[str, float]:
+    """Summarize size, centre and spread; ddof=1 uses the sample SD (n - 1)."""
     return {
         "n": int(values.count()),
         "mean": float(values.mean()),
@@ -102,10 +112,12 @@ def descriptive(values: pd.Series) -> dict[str, float]:
 
 
 def main() -> None:
+    """Prepare team observations, compare progression groups and export results."""
     OUTPUTS.mkdir(parents=True, exist_ok=True)
     build_dataset()
     matches = pd.read_csv(DATA / "match_level_shots_on_target.csv")
     qualification = json.loads((DATA / "qualified_teams.json").read_text())
+    # Flatten the Round of 32 pairings into a set for progression classification.
     advanced = {team for pair in qualification["pairs"] for team in pair}
 
     # Data wrangling: turn each match into one record per team. The opponent's
@@ -118,13 +130,17 @@ def main() -> None:
     appearances["advanced"] = appearances["team"].isin(advanced)
     appearances["progression"] = np.where(appearances["advanced"], "Advanced", "Eliminated")
 
+    # Each match contributes two appearances; each of the 48 teams plays three.
+    # Also ensure every qualifying team is present in the match dataset.
     assert len(appearances) == 144
     assert appearances.isna().sum().sum() == 0
     assert appearances.groupby("team").size().eq(3).all()
     assert appearances["team"].nunique() == 48
     assert len(advanced) == 32 and advanced.issubset(set(appearances["team"]))
 
-    # Sampling unit: one team, using its mean over all three group matches.
+    # Use one observation per team instead of treating repeated appearances as
+    # independent. This retains all 48 teams (a census); no sampling occurs here.
+    # Opponents still share matches, so independence remains approximate.
     teams = (
         appearances.groupby(["group", "team", "advanced", "progression"], as_index=False)
         .agg(
@@ -139,9 +155,15 @@ def main() -> None:
     advanced_values = teams.loc[teams["advanced"], "average_shots_on_target_conceded"]
     eliminated_values = teams.loc[~teams["advanced"], "average_shots_on_target_conceded"]
 
+    # Welch's two-sided test compares means without assuming equal variances.
+    # Its 95% interval estimates advanced minus eliminated: negative values
+    # indicate fewer shots conceded by advancing teams. Census inference is
+    # model-based; it does not quantify uncertainty about the recorded 48 teams.
     result = stats.ttest_ind(advanced_values, eliminated_values, equal_var=False)
     ci = result.confidence_interval(confidence_level=0.95)
     difference = float(advanced_values.mean() - eliminated_values.mean())
+    # Cohen's d expresses the difference in pooled sample-SD units. This
+    # descriptive effect size does not change the Welch test or its interval.
     effect_size = difference / np.sqrt(
         ((len(advanced_values) - 1) * advanced_values.var(ddof=1)
          + (len(eliminated_values) - 1) * eliminated_values.var(ddof=1))
@@ -174,11 +196,13 @@ def main() -> None:
         "decision": "Reject H0" if result.pvalue < 0.05 else "Fail to reject H0",
     }
 
+    # Export intermediate datasets as well as summaries so results are auditable.
     appearances.to_csv(OUTPUTS / "team_match_records.csv", index=False)
     teams.to_csv(OUTPUTS / "team_level_analysis.csv", index=False)
     desc.to_csv(OUTPUTS / "descriptive_statistics.csv", index=False)
     (OUTPUTS / "inferential_results.json").write_text(json.dumps(inference, indent=2))
 
+    # Show group distributions, mean diamonds and individual team observations.
     plt.style.use("seaborn-v0_8-whitegrid")
     fig, ax = plt.subplots(figsize=(8.4, 5.2))
     groups = [advanced_values, eliminated_values]
@@ -186,7 +210,10 @@ def main() -> None:
     box = ax.boxplot(groups, tick_labels=labels, patch_artist=True, widths=0.48, showmeans=True,
                      meanprops={"marker": "D", "markerfacecolor": "white", "markeredgecolor": "#152238"})
     for patch, color in zip(box["boxes"], ["#1976D2", "#EF6C00"]):
-        patch.set_facecolor(color); patch.set_alpha(0.78)
+        patch.set_facecolor(color)
+        patch.set_alpha(0.78)
+    # Seed only the horizontal jitter to keep overlapping points readable and
+    # the chart reproducible; this is not statistical sampling of the teams.
     rng = np.random.default_rng(2026)
     for x, values, color in zip([1, 2], groups, ["#0D47A1", "#BF360C"]):
         ax.scatter(rng.normal(x, 0.045, len(values)), values, s=25, alpha=0.68, color=color, zorder=3)
