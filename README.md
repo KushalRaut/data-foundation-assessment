@@ -6,17 +6,16 @@ Group assessment: four distinct Python analyses of FIFA World Cup 2026 data.
 
 ```text
 topics/
-  01_defensive_effectiveness/
-    README.md       # Question, methods, results and limitations
-    analyse_defensive_effectiveness.py     # Entire topic workflow
-    data/           # Source evidence and input datasets
-    outputs/        # Prepared datasets, statistical results and charts
+  01_defensive_effectiveness/          # Kushal Raut — 399210 (.py)
+  02_possession/                       # Teammate name to be supplied (.py)
+  03_fouls_suffered/                   # Teammate name to be supplied (.ipynb)
+  04_goals_conceded_by_confederation/   # Kuber Budhathoki — s399136 (.ipynb)
 requirements.txt
 ```
 
-Use one topic folder per team member and one Python script per topic. Keep source data in `data/`, code beside that folder, and generated results in `outputs/`. The other three team members will upload their own topic folders. Each topic must investigate a different focal variable; changing groups while analysing the same variable is not sufficient.
+Each topic has one analysis file beside `data/`, `outputs/` and a README explaining how to run it. Source datasets are kept in `data/`; generated datasets, statistics and charts go in `outputs/`. Notebooks also retain inline results.
 
-## Run the existing topic
+## Run the analyses
 
 Python 3.10 or later:
 
@@ -25,9 +24,13 @@ python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
 python topics/01_defensive_effectiveness/analyse_defensive_effectiveness.py
+python topics/02_possession/analyse_possession.py
+jupyter lab
 ```
 
-The defensive-effectiveness workflow rebuilds its dataset from committed evidence and runs without downloading data. Outputs are committed so reviewers can inspect the datasets and results. The defensive-effectiveness topic belongs to **Kushal Raut (student number: 399210)**. The other three topics will be uploaded by the respective team members.
+In Jupyter, open each topic's notebook and run all cells in order. The notebooks support launching from the repository root or their own topic folder.
+
+A `.py` file is a regular Python script that runs the workflow from start to finish. An `.ipynb` file is a Jupyter notebook containing code cells, explanatory text and saved outputs. Both use Python; the supplied assignment brief requires access to Python code and datasets without specifying a notebook format. Existing teammate notebooks are preserved, and the defensive topic remains a single commented script.
 
 ## Required for every topic
 
@@ -38,7 +41,7 @@ The defensive-effectiveness workflow rebuilds its dataset from committed evidenc
 5. A confidence interval with an interpretation.
 6. A justified one-sample or two-sample t-test, hypotheses, significance level and conclusion.
 
-The existing defensive topic uses all 48 teams as a census. Its sampling requirement still needs to be resolved before submission; see its topic README. This repository organization does not constitute four completed analyses.
+The existing defensive topic uses all 48 teams as a census. Its sampling requirement still needs to be resolved before submission; see its topic README. All four contributions are now included. Review each topic README for outstanding methodological or source-documentation items before submission.
 
 ## Submission checklist
 
