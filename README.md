@@ -5,11 +5,10 @@ Group assessment: four distinct Python analyses of FIFA World Cup 2026 data.
 ## Repository layout
 
 ```text
-topics/
-  01_defensive_effectiveness/          # Kushal Raut — 399210 (.py)
-  02_possession/                       # Teammate name to be supplied (.py)
-  03_fouls_suffered/                   # Teammate name to be supplied (.ipynb)
-  04_goals_conceded_by_confederation/   # Kuber Budhathoki — s399136 (.ipynb)
+01_defensive_effectiveness_Kushal_399210/          # Kushal Raut — 399210 (.py)
+02_possession/                       # Teammate name to be supplied (.py)
+03_fouls_suffered/                   # Teammate name to be supplied (.ipynb)
+04_goals_conceded_by_confederation_Kuber_399136/   # Kuber Budhathoki — s399136 (.ipynb)
 requirements.txt
 ```
 
@@ -23,8 +22,8 @@ Python 3.10 or later:
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
-python topics/01_defensive_effectiveness/analyse_defensive_effectiveness.py
-python topics/02_possession/analyse_possession.py
+python 01_defensive_effectiveness_Kushal_399210/analyse_defensive_effectiveness.py
+python 02_possession/analyse_possession.py
 jupyter lab
 ```
 

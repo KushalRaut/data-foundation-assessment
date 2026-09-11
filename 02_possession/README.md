@@ -11,7 +11,7 @@ Does average possession differ between winning and losing teams in the supplied 
 From the repository root:
 
 ```bash
-python topics/02_possession/analyse_possession.py
+python 02_possession/analyse_possession.py
 ```
 
 `data/` contains the original matches, team statistics and team identifiers. The script joins these inputs, removes drawn matches, compares possession, and saves prepared CSVs, three charts and statistical results to `outputs/`. The original Downloads folder remains unchanged.
