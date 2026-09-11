@@ -1,6 +1,6 @@
 # Do forwards and midfielders differ in fouls suffered per 90 minutes?
 
-**Contributor:** Name and student number not supplied in the notebook.
+**Contributor:** Vishan — student number: 398459
 
 Open `analyse_fouls_suffered.ipynb` in Jupyter and run all cells in order. Launch Jupyter from the repository root or this topic folder. Install the root `requirements.txt` first.
 

@@ -68,14 +68,14 @@ The independence assumption is approximate. Teams played one another, so an atta
 From the repository root, after installing `requirements.txt`:
 
 ```bash
-python 01_defensive_effectiveness_Kushal_399210/analyse_defensive_effectiveness.py
+jupyter lab 01_defensive_effectiveness_Kushal_399210/analyse_defensive_effectiveness.ipynb
 ```
 
-This single script rebuilds the match dataset from saved evidence, prepares the team records, computes descriptive statistics, a confidence interval and Welch's t-test, and saves the chart. Paths resolve relative to the script, so it can also run from another working directory.
+Run all notebook cells in order. This notebook rebuilds the match dataset from saved evidence, prepares the team records, computes descriptive statistics, a confidence interval and Welch's t-test, and saves the chart. Launch Jupyter from the repository root or this topic folder. Tables and the chart are displayed inline as well as saved to disk.
 
 ## File guide
 
-- `analyse_defensive_effectiveness.py`: complete dataset-building and analysis workflow.
+- `analyse_defensive_effectiveness.ipynb`: complete dataset-building and analysis workflow.
 - `data/`: source evidence, qualification records, and the rebuilt match-level CSV; all datasets are committed for reproducibility.
 - `outputs/`: prepared team datasets, descriptive statistics, inferential results, and the chart.
 

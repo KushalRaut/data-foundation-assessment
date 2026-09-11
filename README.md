@@ -5,9 +5,9 @@ Group assessment: four distinct Python analyses of FIFA World Cup 2026 data.
 ## Repository layout
 
 ```text
-01_defensive_effectiveness_Kushal_399210/          # Kushal Raut — 399210 (.py)
-02_possession/                       # Teammate name to be supplied (.py)
-03_fouls_suffered/                   # Teammate name to be supplied (.ipynb)
+01_defensive_effectiveness_Kushal_399210/          # Kushal Raut — 399210 (.ipynb)
+02_possession_Madhav_397512/                       # Madhav — 397512 (.py)
+03_fouls_suffered_Vishan_398459/                   # Vishan — 398459 (.ipynb)
 04_goals_conceded_by_confederation_Kuber_399136/   # Kuber Budhathoki — s399136 (.ipynb)
 requirements.txt
 ```
@@ -22,14 +22,13 @@ Python 3.10 or later:
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
-python 01_defensive_effectiveness_Kushal_399210/analyse_defensive_effectiveness.py
-python 02_possession/analyse_possession.py
+python 02_possession_Madhav_397512/analyse_possession.py
 jupyter lab
 ```
 
 In Jupyter, open each topic's notebook and run all cells in order. The notebooks support launching from the repository root or their own topic folder.
 
-A `.py` file is a regular Python script that runs the workflow from start to finish. An `.ipynb` file is a Jupyter notebook containing code cells, explanatory text and saved outputs. Both use Python; the supplied assignment brief requires access to Python code and datasets without specifying a notebook format. Existing teammate notebooks are preserved, and the defensive topic remains a single commented script.
+A `.py` file is a regular Python script that runs the workflow from start to finish. An `.ipynb` file is a Jupyter notebook containing code cells, explanatory text and saved outputs. Both use Python; the supplied assignment brief requires access to Python code and datasets without specifying a notebook format. The defensive, fouls and confederation topics use notebooks; the possession topic uses a Python script. Open `01_defensive_effectiveness_Kushal_399210/analyse_defensive_effectiveness.ipynb` to run Kushal’s analysis cell by cell.
 
 ## Required for every topic
 
