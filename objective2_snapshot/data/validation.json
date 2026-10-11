@@ -1,0 +1,21 @@
+{
+  "matches": 104,
+  "team_rows": 208,
+  "teams": 48,
+  "total_goals": 308,
+  "extra_time_matches": 9,
+  "shootouts": 4,
+  "historical_rows": 49414,
+  "excluded_ambiguous_history_rows": 2,
+  "date_disagreements": 0,
+  "score_disagreements": 0,
+  "shared_concepts": [
+    "elo",
+    "rest",
+    "home advantage",
+    "competitive share"
+  ],
+  "min_history_count": 10,
+  "missing_predictors": 0,
+  "source_access_date": "2026-10-05"
+}

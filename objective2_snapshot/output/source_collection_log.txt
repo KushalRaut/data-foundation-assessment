@@ -1,0 +1,63 @@
+Reports 104
+[
+  {
+    "resource": 12541,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12541/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Round of 16\nBrazil v. Norway  1-2 (0-0)\n#91 | 5 July 2026 | NEW YORK/NEW JERSEY / New York/New Jersey Stadium / USA / Attendance: 80,663\n"
+  },
+  {
+    "resource": 12542,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12542/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Round of 16\nParaguay v. France  0-1 (0-0)\n#89 | 4 July 2026 | PHILADELPHIA / Philadelphia Stadium / USA / Attendance: 68,324\n"
+  },
+  {
+    "resource": 12543,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12543/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Round of 16\nUSA v. Belgium  1-4 (1-2)\n#94 | 6 July 2026 | SEATTLE / Seattle Stadium / USA / Attendance: 66,925\n"
+  },
+  {
+    "resource": 12544,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12544/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Round of 16\nSwitzerland v. Colombia  0-0 AET 4-3 PSO\n#96 | 7 July 2026 | VANCOUVER / BC Place Vancouver / CAN / Attendance: 52,497\n"
+  },
+  {
+    "resource": 12545,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12545/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Quarter-\u0000nal\nFrance v. Morocco  2-0 (0-0)\n#97 | 9 July 2026 | BOSTON / Boston Stadium / USA / Attendance: 63,811\n"
+  },
+  {
+    "resource": 12546,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12546/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Quarter-\u0000nal\nArgentina v. Switzerland  3-1 AET (1-1, 1-0)\n#100 | 11 July 2026 | KANSAS CITY / Kansas City Stadium / USA / Attendance: 69,045\n"
+  },
+  {
+    "resource": 12547,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12547/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Quarter-\u0000nal\nSpain v. Belgium  2-1 (1-1)\n#98 | 10 July 2026 | LOS ANGELES / Los Angeles Stadium / USA / Attendance: 70,492\n"
+  },
+  {
+    "resource": 12548,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12548/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Quarter-\u0000nal\nNorway v. England  1-2 AET (1-1, 1-1)\n#99 | 11 July 2026 | MIAMI / Miami Stadium / USA / Attendance: 64,478\n"
+  },
+  {
+    "resource": 12549,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12549/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Semi-\u0000nal\nEngland v. Argentina  1-2 (0-0)\n#102 | 15 July 2026 | ATLANTA / Atlanta Stadium / USA / Attendance: 68,239\n"
+  },
+  {
+    "resource": 12550,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12550/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Semi-\u0000nal\nFrance v. Spain  0-2 (0-1)\n#101 | 14 July 2026 | DALLAS / Dallas Stadium / USA / Attendance: 70,176\n"
+  },
+  {
+    "resource": 12551,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12551/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Bronze \u0000nal\nFrance v. England  4-6 (0-4)\n#103 | 18 July 2026 | MIAMI / Miami Stadium / USA / Attendance: 64,478\n"
+  },
+  {
+    "resource": 12552,
+    "url": "https://fdp.fifa.org/assetspublic/ce281/r12552/pdf/FullTimeMatchReport-English.pdf",
+    "header": "Final\nSpain v. Argentina  1-0 AET (0-0, 0-0)\n#104 | 19 July 2026 | NEW YORK/NEW JERSEY / New York/New Jersey Stadium / USA / Attendance: 80,663\n"
+  }
+]

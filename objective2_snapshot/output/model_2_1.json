@@ -1,0 +1,70 @@
+{
+  "model": "2_1",
+  "n_train": 85,
+  "n_test": 19,
+  "train_matches": 85,
+  "test_matches": 19,
+  "train_end": "2026-07-02",
+  "test_start": "2026-07-03",
+  "test_end": "2026-07-19",
+  "train_R2": 0.5058757257533797,
+  "train_adjusted_R2": 0.45386264425373535,
+  "train_residual_SD": 1.5357865302044411,
+  "robust_covariance": "HC3",
+  "robust_joint_F": 7.688989184413847,
+  "robust_joint_p": 1.7195729562712815e-07,
+  "breusch_pagan_p": 0.5784068753224345,
+  "shapiro_p": 0.22521551682940127,
+  "max_VIF": 8.006319208150986,
+  "cooks_threshold": 0.047058823529411764,
+  "n_cooks_flag": 6,
+  "most_influential_match": "M056",
+  "sensitivity_omit_match": {
+    "MAE": 1.1425443210642856,
+    "RMSE": 1.4030852219768342,
+    "R2": 0.11826057247288912
+  },
+  "sensitivity_max_prediction_change": 0.4195529522541359,
+  "holdout": {
+    "MAE": 1.1464514191747592,
+    "RMSE": 1.3952500297120334,
+    "R2": 0.12808080025617086
+  },
+  "baseline": {
+    "MAE": 1.4922600619195046,
+    "RMSE": 1.8199525491081576,
+    "R2": -0.4835161891351196
+  },
+  "bootstrap95": {
+    "MAE": [
+      0.7934005916054726,
+      1.5211955488626727
+    ],
+    "RMSE": [
+      1.0253372276963388,
+      1.7281046103476898
+    ],
+    "R2": [
+      -0.7787558653027528,
+      0.5095113752498273
+    ],
+    "MAE_improvement": [
+      -0.07076795766666674,
+      0.7483205252935201
+    ]
+  },
+  "negative_predictions": 7,
+  "holdout_goal_min": -3,
+  "holdout_goal_max": 2,
+  "coefficients": {
+    "const": 0.3040262103790229,
+    "elo_difference": 0.022781679934828908,
+    "win_rate_difference": 2.544286723911764,
+    "draw_rate_difference": 2.4287158804879176,
+    "rest_difference": 0.08319933517714861,
+    "home_advantage": 0.5340438767388748,
+    "world_cup_experience_difference": 0.4463336547489673,
+    "head_to_head_balance": 1.445342841808974,
+    "competitive_share_difference": -0.639135812425079
+  }
+}

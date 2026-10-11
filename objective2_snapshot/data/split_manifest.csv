@@ -1,0 +1,105 @@
+match_id,date,stage,split
+M001,2026-06-11,Group A,Training
+M002,2026-06-11,Group A,Training
+M003,2026-06-12,Group B,Training
+M004,2026-06-12,Group D,Training
+M005,2026-06-13,Group C,Training
+M006,2026-06-13,Group D,Training
+M007,2026-06-13,Group C,Training
+M008,2026-06-13,Group B,Training
+M009,2026-06-14,Group E,Training
+M010,2026-06-14,Group E,Training
+M011,2026-06-14,Group F,Training
+M012,2026-06-14,Group F,Training
+M013,2026-06-15,Group H,Training
+M014,2026-06-15,Group H,Training
+M015,2026-06-15,Group G,Training
+M016,2026-06-15,Group G,Training
+M017,2026-06-16,Group I,Training
+M018,2026-06-16,Group I,Training
+M019,2026-06-16,Group J,Training
+M020,2026-06-16,Group J,Training
+M021,2026-06-17,Group L,Training
+M022,2026-06-17,Group L,Training
+M023,2026-06-17,Group K,Training
+M024,2026-06-17,Group K,Training
+M025,2026-06-18,Group A,Training
+M026,2026-06-18,Group B,Training
+M027,2026-06-18,Group B,Training
+M028,2026-06-18,Group A,Training
+M029,2026-06-19,Group C,Training
+M030,2026-06-19,Group C,Training
+M031,2026-06-19,Group D,Training
+M032,2026-06-19,Group D,Training
+M033,2026-06-20,Group E,Training
+M034,2026-06-20,Group E,Training
+M035,2026-06-20,Group F,Training
+M036,2026-06-20,Group F,Training
+M037,2026-06-21,Group H,Training
+M038,2026-06-21,Group H,Training
+M039,2026-06-21,Group G,Training
+M040,2026-06-21,Group G,Training
+M041,2026-06-22,Group I,Training
+M042,2026-06-22,Group I,Training
+M043,2026-06-22,Group J,Training
+M044,2026-06-22,Group J,Training
+M045,2026-06-23,Group L,Training
+M046,2026-06-23,Group L,Training
+M047,2026-06-23,Group K,Training
+M048,2026-06-23,Group K,Training
+M049,2026-06-24,Group C,Training
+M050,2026-06-24,Group C,Training
+M051,2026-06-24,Group B,Training
+M052,2026-06-24,Group B,Training
+M053,2026-06-24,Group A,Training
+M054,2026-06-24,Group A,Training
+M055,2026-06-25,Group E,Training
+M056,2026-06-25,Group E,Training
+M057,2026-06-25,Group F,Training
+M058,2026-06-25,Group F,Training
+M059,2026-06-25,Group D,Training
+M060,2026-06-25,Group D,Training
+M061,2026-06-26,Group I,Training
+M062,2026-06-26,Group I,Training
+M063,2026-06-26,Group G,Training
+M064,2026-06-26,Group G,Training
+M065,2026-06-26,Group H,Training
+M066,2026-06-26,Group H,Training
+M067,2026-06-27,Group L,Training
+M068,2026-06-27,Group L,Training
+M069,2026-06-27,Group J,Training
+M070,2026-06-27,Group J,Training
+M071,2026-06-27,Group K,Training
+M072,2026-06-27,Group K,Training
+M073,2026-06-28,Round of 32,Training
+M074,2026-06-29,Round of 32,Training
+M075,2026-06-29,Round of 32,Training
+M076,2026-06-29,Round of 32,Training
+M077,2026-06-30,Round of 32,Training
+M078,2026-06-30,Round of 32,Training
+M079,2026-06-30,Round of 32,Training
+M080,2026-07-01,Round of 32,Training
+M081,2026-07-01,Round of 32,Training
+M082,2026-07-01,Round of 32,Training
+M083,2026-07-02,Round of 32,Training
+M084,2026-07-02,Round of 32,Training
+M085,2026-07-02,Round of 32,Training
+M086,2026-07-03,Round of 32,Holdout
+M087,2026-07-03,Round of 32,Holdout
+M088,2026-07-03,Round of 32,Holdout
+M089,2026-07-04,Round of 16,Holdout
+M090,2026-07-04,Round of 16,Holdout
+M091,2026-07-05,Round of 16,Holdout
+M092,2026-07-05,Round of 16,Holdout
+M093,2026-07-06,Round of 16,Holdout
+M094,2026-07-06,Round of 16,Holdout
+M095,2026-07-07,Round of 16,Holdout
+M096,2026-07-07,Round of 16,Holdout
+M097,2026-07-09,Quarter-final,Holdout
+M098,2026-07-10,Quarter-final,Holdout
+M099,2026-07-11,Quarter-final,Holdout
+M100,2026-07-11,Quarter-final,Holdout
+M101,2026-07-14,Semi-final,Holdout
+M102,2026-07-15,Semi-final,Holdout
+M103,2026-07-18,Bronze final,Holdout
+M104,2026-07-19,Final,Holdout

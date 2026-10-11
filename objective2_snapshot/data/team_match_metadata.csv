@@ -1,0 +1,209 @@
+row_id,match_id,date,team,opponent,stage
+M001_A,M001,2026-06-11,Mexico,South Africa,Group A
+M001_B,M001,2026-06-11,South Africa,Mexico,Group A
+M002_A,M002,2026-06-11,South Korea,Czech Republic,Group A
+M002_B,M002,2026-06-11,Czech Republic,South Korea,Group A
+M003_A,M003,2026-06-12,Canada,Bosnia and Herzegovina,Group B
+M003_B,M003,2026-06-12,Bosnia and Herzegovina,Canada,Group B
+M004_A,M004,2026-06-12,United States,Paraguay,Group D
+M004_B,M004,2026-06-12,Paraguay,United States,Group D
+M006_A,M006,2026-06-13,Australia,Turkey,Group D
+M006_B,M006,2026-06-13,Turkey,Australia,Group D
+M007_A,M007,2026-06-13,Brazil,Morocco,Group C
+M007_B,M007,2026-06-13,Morocco,Brazil,Group C
+M005_A,M005,2026-06-13,Haiti,Scotland,Group C
+M005_B,M005,2026-06-13,Scotland,Haiti,Group C
+M008_A,M008,2026-06-13,Qatar,Switzerland,Group B
+M008_B,M008,2026-06-13,Switzerland,Qatar,Group B
+M010_A,M010,2026-06-14,Germany,Curaçao,Group E
+M010_B,M010,2026-06-14,Curaçao,Germany,Group E
+M009_A,M009,2026-06-14,Ivory Coast,Ecuador,Group E
+M009_B,M009,2026-06-14,Ecuador,Ivory Coast,Group E
+M011_A,M011,2026-06-14,Netherlands,Japan,Group F
+M011_B,M011,2026-06-14,Japan,Netherlands,Group F
+M012_A,M012,2026-06-14,Sweden,Tunisia,Group F
+M012_B,M012,2026-06-14,Tunisia,Sweden,Group F
+M016_A,M016,2026-06-15,Belgium,Egypt,Group G
+M016_B,M016,2026-06-15,Egypt,Belgium,Group G
+M015_A,M015,2026-06-15,Iran,New Zealand,Group G
+M015_B,M015,2026-06-15,New Zealand,Iran,Group G
+M013_A,M013,2026-06-15,Saudi Arabia,Uruguay,Group H
+M013_B,M013,2026-06-15,Uruguay,Saudi Arabia,Group H
+M014_A,M014,2026-06-15,Spain,Cape Verde,Group H
+M014_B,M014,2026-06-15,Cape Verde,Spain,Group H
+M019_A,M019,2026-06-16,Argentina,Algeria,Group J
+M019_B,M019,2026-06-16,Algeria,Argentina,Group J
+M020_A,M020,2026-06-16,Austria,Jordan,Group J
+M020_B,M020,2026-06-16,Jordan,Austria,Group J
+M017_A,M017,2026-06-16,France,Senegal,Group I
+M017_B,M017,2026-06-16,Senegal,France,Group I
+M018_A,M018,2026-06-16,Iraq,Norway,Group I
+M018_B,M018,2026-06-16,Norway,Iraq,Group I
+M022_A,M022,2026-06-17,England,Croatia,Group L
+M022_B,M022,2026-06-17,Croatia,England,Group L
+M021_A,M021,2026-06-17,Ghana,Panama,Group L
+M021_B,M021,2026-06-17,Panama,Ghana,Group L
+M023_A,M023,2026-06-17,Portugal,DR Congo,Group K
+M023_B,M023,2026-06-17,DR Congo,Portugal,Group K
+M024_A,M024,2026-06-17,Uzbekistan,Colombia,Group K
+M024_B,M024,2026-06-17,Colombia,Uzbekistan,Group K
+M027_A,M027,2026-06-18,Canada,Qatar,Group B
+M027_B,M027,2026-06-18,Qatar,Canada,Group B
+M025_A,M025,2026-06-18,Czech Republic,South Africa,Group A
+M025_B,M025,2026-06-18,South Africa,Czech Republic,Group A
+M028_A,M028,2026-06-18,Mexico,South Korea,Group A
+M028_B,M028,2026-06-18,South Korea,Mexico,Group A
+M026_A,M026,2026-06-18,Switzerland,Bosnia and Herzegovina,Group B
+M026_B,M026,2026-06-18,Bosnia and Herzegovina,Switzerland,Group B
+M029_A,M029,2026-06-19,Brazil,Haiti,Group C
+M029_B,M029,2026-06-19,Haiti,Brazil,Group C
+M030_A,M030,2026-06-19,Scotland,Morocco,Group C
+M030_B,M030,2026-06-19,Morocco,Scotland,Group C
+M031_A,M031,2026-06-19,Turkey,Paraguay,Group D
+M031_B,M031,2026-06-19,Paraguay,Turkey,Group D
+M032_A,M032,2026-06-19,United States,Australia,Group D
+M032_B,M032,2026-06-19,Australia,United States,Group D
+M034_A,M034,2026-06-20,Ecuador,Curaçao,Group E
+M034_B,M034,2026-06-20,Curaçao,Ecuador,Group E
+M033_A,M033,2026-06-20,Germany,Ivory Coast,Group E
+M033_B,M033,2026-06-20,Ivory Coast,Germany,Group E
+M035_A,M035,2026-06-20,Netherlands,Sweden,Group F
+M035_B,M035,2026-06-20,Sweden,Netherlands,Group F
+M036_A,M036,2026-06-20,Tunisia,Japan,Group F
+M036_B,M036,2026-06-20,Japan,Tunisia,Group F
+M039_A,M039,2026-06-21,Belgium,Iran,Group G
+M039_B,M039,2026-06-21,Iran,Belgium,Group G
+M040_A,M040,2026-06-21,New Zealand,Egypt,Group G
+M040_B,M040,2026-06-21,Egypt,New Zealand,Group G
+M038_A,M038,2026-06-21,Spain,Saudi Arabia,Group H
+M038_B,M038,2026-06-21,Saudi Arabia,Spain,Group H
+M037_A,M037,2026-06-21,Uruguay,Cape Verde,Group H
+M037_B,M037,2026-06-21,Cape Verde,Uruguay,Group H
+M043_A,M043,2026-06-22,Argentina,Austria,Group J
+M043_B,M043,2026-06-22,Austria,Argentina,Group J
+M042_A,M042,2026-06-22,France,Iraq,Group I
+M042_B,M042,2026-06-22,Iraq,France,Group I
+M044_A,M044,2026-06-22,Jordan,Algeria,Group J
+M044_B,M044,2026-06-22,Algeria,Jordan,Group J
+M041_A,M041,2026-06-22,Norway,Senegal,Group I
+M041_B,M041,2026-06-22,Senegal,Norway,Group I
+M048_A,M048,2026-06-23,Colombia,DR Congo,Group K
+M048_B,M048,2026-06-23,DR Congo,Colombia,Group K
+M045_A,M045,2026-06-23,England,Ghana,Group L
+M045_B,M045,2026-06-23,Ghana,England,Group L
+M046_A,M046,2026-06-23,Panama,Croatia,Group L
+M046_B,M046,2026-06-23,Croatia,Panama,Group L
+M047_A,M047,2026-06-23,Portugal,Uzbekistan,Group K
+M047_B,M047,2026-06-23,Uzbekistan,Portugal,Group K
+M052_A,M052,2026-06-24,Bosnia and Herzegovina,Qatar,Group B
+M052_B,M052,2026-06-24,Qatar,Bosnia and Herzegovina,Group B
+M053_A,M053,2026-06-24,Czech Republic,Mexico,Group A
+M053_B,M053,2026-06-24,Mexico,Czech Republic,Group A
+M050_A,M050,2026-06-24,Morocco,Haiti,Group C
+M050_B,M050,2026-06-24,Haiti,Morocco,Group C
+M049_A,M049,2026-06-24,Scotland,Brazil,Group C
+M049_B,M049,2026-06-24,Brazil,Scotland,Group C
+M054_A,M054,2026-06-24,South Africa,South Korea,Group A
+M054_B,M054,2026-06-24,South Korea,South Africa,Group A
+M051_A,M051,2026-06-24,Switzerland,Canada,Group B
+M051_B,M051,2026-06-24,Canada,Switzerland,Group B
+M055_A,M055,2026-06-25,Curaçao,Ivory Coast,Group E
+M055_B,M055,2026-06-25,Ivory Coast,Curaçao,Group E
+M056_A,M056,2026-06-25,Ecuador,Germany,Group E
+M056_B,M056,2026-06-25,Germany,Ecuador,Group E
+M057_A,M057,2026-06-25,Japan,Sweden,Group F
+M057_B,M057,2026-06-25,Sweden,Japan,Group F
+M060_A,M060,2026-06-25,Paraguay,Australia,Group D
+M060_B,M060,2026-06-25,Australia,Paraguay,Group D
+M058_A,M058,2026-06-25,Tunisia,Netherlands,Group F
+M058_B,M058,2026-06-25,Netherlands,Tunisia,Group F
+M059_A,M059,2026-06-25,Turkey,United States,Group D
+M059_B,M059,2026-06-25,United States,Turkey,Group D
+M065_A,M065,2026-06-26,Cape Verde,Saudi Arabia,Group H
+M065_B,M065,2026-06-26,Saudi Arabia,Cape Verde,Group H
+M063_A,M063,2026-06-26,Egypt,Iran,Group G
+M063_B,M063,2026-06-26,Iran,Egypt,Group G
+M064_A,M064,2026-06-26,New Zealand,Belgium,Group G
+M064_B,M064,2026-06-26,Belgium,New Zealand,Group G
+M061_A,M061,2026-06-26,Norway,France,Group I
+M061_B,M061,2026-06-26,France,Norway,Group I
+M062_A,M062,2026-06-26,Senegal,Iraq,Group I
+M062_B,M062,2026-06-26,Iraq,Senegal,Group I
+M066_A,M066,2026-06-26,Uruguay,Spain,Group H
+M066_B,M066,2026-06-26,Spain,Uruguay,Group H
+M069_A,M069,2026-06-27,Algeria,Austria,Group J
+M069_B,M069,2026-06-27,Austria,Algeria,Group J
+M071_A,M071,2026-06-27,Colombia,Portugal,Group K
+M071_B,M071,2026-06-27,Portugal,Colombia,Group K
+M068_A,M068,2026-06-27,Croatia,Ghana,Group L
+M068_B,M068,2026-06-27,Ghana,Croatia,Group L
+M072_A,M072,2026-06-27,DR Congo,Uzbekistan,Group K
+M072_B,M072,2026-06-27,Uzbekistan,DR Congo,Group K
+M070_A,M070,2026-06-27,Jordan,Argentina,Group J
+M070_B,M070,2026-06-27,Argentina,Jordan,Group J
+M067_A,M067,2026-06-27,Panama,England,Group L
+M067_B,M067,2026-06-27,England,Panama,Group L
+M073_A,M073,2026-06-28,South Africa,Canada,Round of 32
+M073_B,M073,2026-06-28,Canada,South Africa,Round of 32
+M076_A,M076,2026-06-29,Brazil,Japan,Round of 32
+M076_B,M076,2026-06-29,Japan,Brazil,Round of 32
+M074_A,M074,2026-06-29,Germany,Paraguay,Round of 32
+M074_B,M074,2026-06-29,Paraguay,Germany,Round of 32
+M075_A,M075,2026-06-29,Netherlands,Morocco,Round of 32
+M075_B,M075,2026-06-29,Morocco,Netherlands,Round of 32
+M077_A,M077,2026-06-30,France,Sweden,Round of 32
+M077_B,M077,2026-06-30,Sweden,France,Round of 32
+M078_A,M078,2026-06-30,Ivory Coast,Norway,Round of 32
+M078_B,M078,2026-06-30,Norway,Ivory Coast,Round of 32
+M079_A,M079,2026-06-30,Mexico,Ecuador,Round of 32
+M079_B,M079,2026-06-30,Ecuador,Mexico,Round of 32
+M082_A,M082,2026-07-01,Belgium,Senegal,Round of 32
+M082_B,M082,2026-07-01,Senegal,Belgium,Round of 32
+M080_A,M080,2026-07-01,England,DR Congo,Round of 32
+M080_B,M080,2026-07-01,DR Congo,England,Round of 32
+M081_A,M081,2026-07-01,United States,Bosnia and Herzegovina,Round of 32
+M081_B,M081,2026-07-01,Bosnia and Herzegovina,United States,Round of 32
+M083_A,M083,2026-07-02,Portugal,Croatia,Round of 32
+M083_B,M083,2026-07-02,Croatia,Portugal,Round of 32
+M084_A,M084,2026-07-02,Spain,Austria,Round of 32
+M084_B,M084,2026-07-02,Austria,Spain,Round of 32
+M085_A,M085,2026-07-02,Switzerland,Algeria,Round of 32
+M085_B,M085,2026-07-02,Algeria,Switzerland,Round of 32
+M086_A,M086,2026-07-03,Argentina,Cape Verde,Round of 32
+M086_B,M086,2026-07-03,Cape Verde,Argentina,Round of 32
+M088_A,M088,2026-07-03,Australia,Egypt,Round of 32
+M088_B,M088,2026-07-03,Egypt,Australia,Round of 32
+M087_A,M087,2026-07-03,Colombia,Ghana,Round of 32
+M087_B,M087,2026-07-03,Ghana,Colombia,Round of 32
+M090_A,M090,2026-07-04,Canada,Morocco,Round of 16
+M090_B,M090,2026-07-04,Morocco,Canada,Round of 16
+M089_A,M089,2026-07-04,Paraguay,France,Round of 16
+M089_B,M089,2026-07-04,France,Paraguay,Round of 16
+M091_A,M091,2026-07-05,Brazil,Norway,Round of 16
+M091_B,M091,2026-07-05,Norway,Brazil,Round of 16
+M092_A,M092,2026-07-05,Mexico,England,Round of 16
+M092_B,M092,2026-07-05,England,Mexico,Round of 16
+M093_A,M093,2026-07-06,Portugal,Spain,Round of 16
+M093_B,M093,2026-07-06,Spain,Portugal,Round of 16
+M094_A,M094,2026-07-06,United States,Belgium,Round of 16
+M094_B,M094,2026-07-06,Belgium,United States,Round of 16
+M095_A,M095,2026-07-07,Argentina,Egypt,Round of 16
+M095_B,M095,2026-07-07,Egypt,Argentina,Round of 16
+M096_A,M096,2026-07-07,Switzerland,Colombia,Round of 16
+M096_B,M096,2026-07-07,Colombia,Switzerland,Round of 16
+M097_A,M097,2026-07-09,France,Morocco,Quarter-final
+M097_B,M097,2026-07-09,Morocco,France,Quarter-final
+M098_A,M098,2026-07-10,Spain,Belgium,Quarter-final
+M098_B,M098,2026-07-10,Belgium,Spain,Quarter-final
+M100_A,M100,2026-07-11,Argentina,Switzerland,Quarter-final
+M100_B,M100,2026-07-11,Switzerland,Argentina,Quarter-final
+M099_A,M099,2026-07-11,Norway,England,Quarter-final
+M099_B,M099,2026-07-11,England,Norway,Quarter-final
+M101_A,M101,2026-07-14,France,Spain,Semi-final
+M101_B,M101,2026-07-14,Spain,France,Semi-final
+M102_A,M102,2026-07-15,England,Argentina,Semi-final
+M102_B,M102,2026-07-15,Argentina,England,Semi-final
+M103_A,M103,2026-07-18,France,England,Bronze final
+M103_B,M103,2026-07-18,England,France,Bronze final
+M104_A,M104,2026-07-19,Spain,Argentina,Final
+M104_B,M104,2026-07-19,Argentina,Spain,Final

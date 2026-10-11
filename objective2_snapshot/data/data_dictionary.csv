@@ -1,0 +1,14 @@
+variable,model,unit,definition
+elo_difference,Both,Elo points / 100,"Team Elo minus opponent Elo, divided by 100. Analyst-computed ratings, initial 1500, K=20, home adjustment 100, from all archived matches before this date."
+win_rate_difference,2.1,Proportion difference,"Team win fraction minus opponent win fraction, each over the latest 10 prior internationals."
+draw_rate_difference,2.1,Proportion difference,Team draw fraction minus opponent draw fraction over the latest 10 prior internationals.
+rest_difference,Both,Days,"Difference in calendar days since each side last played, each capped at 14. Source dates are used; this is not exact recovery hours."
+home_advantage,Both,"-1, 0, or 1",1 if team is playing in its own country; -1 if the opponent is; otherwise 0. FIFA first-listed team is not assumed to be the home side.
+world_cup_experience_difference,2.1,Log count difference,"log(1 + team prior World Cup finals matches) minus log(1 + opponent prior finals matches), including earlier 2026 matches."
+head_to_head_balance,2.1,Smoothed result balance,"Sum of result signs from the team perspective in the latest five prior meetings, divided by number of meetings + 2. No previous meeting gives 0; shootout outcomes are draws."
+competitive_share_difference,2.1,Proportion difference,Difference in fractions of last 10 internationals whose source tournament is not Friendly.
+competitive_share,2.2,Proportion,Fraction of the team's last 10 internationals whose source tournament is not Friendly. Shared concept with competitive_share_difference.
+goals_for_mean,2.2,Goals per match,"Mean team goals scored across its last 10 prior internationals, including extra time and excluding shootout kicks."
+opponent_goals_against_mean,2.2,Goals per match,Mean goals conceded by the opponent across its last 10 prior internationals.
+failed_to_score_rate,2.2,Proportion,Fraction of team's last 10 prior internationals in which it scored zero goals.
+opponent_clean_sheet_rate,2.2,Proportion,Fraction of opponent's last 10 prior internationals in which it conceded zero goals.
