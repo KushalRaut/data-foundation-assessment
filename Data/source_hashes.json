@@ -1,0 +1,846 @@
+[
+  {
+    "path": "raw/fifa/12449.pdf",
+    "sha256": "ae8d10e725a58fe30ba454152fae13e8810abce9acb57288fee3d792b3f2b611"
+  },
+  {
+    "path": "raw/fifa/12449.txt",
+    "sha256": "6aef673bf98b60005d49dc74782952009789f1c5d0430da284ad64595b96336b"
+  },
+  {
+    "path": "raw/fifa/12450.pdf",
+    "sha256": "c76d61dcd3cadac38ac20b667f1dd54038d0caba7372b1681b3eec5a804641b6"
+  },
+  {
+    "path": "raw/fifa/12450.txt",
+    "sha256": "acebf79c4876794ed0ae116782d1b8f58fc9e7e6c05f2a312d44c9376ae97483"
+  },
+  {
+    "path": "raw/fifa/12451.pdf",
+    "sha256": "950b40c8f958eadebc447a86e8b2c4c6d5097e1d9a44e57354fe74a9b0862b58"
+  },
+  {
+    "path": "raw/fifa/12451.txt",
+    "sha256": "2f502870d7cb22d6f127b18f7223c478023585748081d7c3c9c098d22cd86149"
+  },
+  {
+    "path": "raw/fifa/12452.pdf",
+    "sha256": "f8086f18fac9bd82d84faedbcbf98c5a38a952886c985118732769c9afc3bbad"
+  },
+  {
+    "path": "raw/fifa/12452.txt",
+    "sha256": "cef4614e14209d54070ab610d7e70edbe462496dfa0787cdc4c1a719d9f0f780"
+  },
+  {
+    "path": "raw/fifa/12453.pdf",
+    "sha256": "78c046e4d5a9e2a73ab45dfabb255a0aeec347f1f3ad3bab797204e03af00fec"
+  },
+  {
+    "path": "raw/fifa/12453.txt",
+    "sha256": "baef1de9f6865b45130253a8632413a39d920f5da88e4c144b8c0a4cec183e89"
+  },
+  {
+    "path": "raw/fifa/12454.pdf",
+    "sha256": "93e0a03974b6a95b41afb5d3debf48039837993c9afe3ff86a52ea759fba9520"
+  },
+  {
+    "path": "raw/fifa/12454.txt",
+    "sha256": "82578023a28271b29064f98f125d4d036708b59b3c2512b9265913028c0cc8ad"
+  },
+  {
+    "path": "raw/fifa/12455.pdf",
+    "sha256": "a40433fc3310ca55fc9301c3f1134d47cbb47bdd7f44c0f5a8154149112d8e9d"
+  },
+  {
+    "path": "raw/fifa/12455.txt",
+    "sha256": "9cc02dc1cedb7d8a17c818ed30316766b5fc46d4215d54c82c30476f3bf83b08"
+  },
+  {
+    "path": "raw/fifa/12456.pdf",
+    "sha256": "06e9c4c4a2e6cd9a52848db74b5867e80cacd3b41d19f3118b651a5b87f68189"
+  },
+  {
+    "path": "raw/fifa/12456.txt",
+    "sha256": "4d03a09f94795cb08adecca7988a4dcbe6517820005eb0bf1b30c505913645ce"
+  },
+  {
+    "path": "raw/fifa/12457.pdf",
+    "sha256": "8d17d634059e2b6f6f2d287121ba7171d02e256be248249ab77dde4c0318f72e"
+  },
+  {
+    "path": "raw/fifa/12457.txt",
+    "sha256": "132eec32b6cff9c2deac7e31e1faf9adfdfb79e3308060582f3be1c1acdb521a"
+  },
+  {
+    "path": "raw/fifa/12458.pdf",
+    "sha256": "f52ac3dfde1da8669c1e6031924d4be0e5cc183a90badc9c18e08dc525149d70"
+  },
+  {
+    "path": "raw/fifa/12458.txt",
+    "sha256": "9446901b0cebd13e8629a802b4a03d02aaef48433a26bb1d1e3022fb96407aa9"
+  },
+  {
+    "path": "raw/fifa/12459.pdf",
+    "sha256": "61775518cd89c863d57aa9cc630ac0ce195d76dd4f99a9328187f98a00ce32d2"
+  },
+  {
+    "path": "raw/fifa/12459.txt",
+    "sha256": "87ca47fddeb8271a526beff9698c140be90098f7284ff57e69334a82610ef1d6"
+  },
+  {
+    "path": "raw/fifa/12460.pdf",
+    "sha256": "a2eebd69a03afda960d718bd9316e276f4a0f5f46d279aafe943eb8cfe6d1bc5"
+  },
+  {
+    "path": "raw/fifa/12460.txt",
+    "sha256": "87477ffd6fd9afe90681104f73565180019079eb8f43ca023af748cf020e5db4"
+  },
+  {
+    "path": "raw/fifa/12461.pdf",
+    "sha256": "e4cc43ce8ad07d500c32870e0c360ab2ce1e44441628170ccedd34b22ad604b3"
+  },
+  {
+    "path": "raw/fifa/12461.txt",
+    "sha256": "01c2af147d9cf44cd7af7ab469f52bc1094ac074ad599b2d0d1d97b2599fb307"
+  },
+  {
+    "path": "raw/fifa/12462.pdf",
+    "sha256": "c8fc7b6735197415d039baec0c9276deed9d4f1150fbffeff0d999328c2f86ed"
+  },
+  {
+    "path": "raw/fifa/12462.txt",
+    "sha256": "049ea52ef52594bb4f0e4c1197ba69258f3ec1fcd4d6c1919e6c08d9e3eb3888"
+  },
+  {
+    "path": "raw/fifa/12463.pdf",
+    "sha256": "ea86a1e990fa196381c475b95acaaca31cca8b0df66d3a3439e2b3cd290e8f8d"
+  },
+  {
+    "path": "raw/fifa/12463.txt",
+    "sha256": "8e76179bcc6407e04fec9759ebd2079aed8676ee89b8912b644114b2f9e70c32"
+  },
+  {
+    "path": "raw/fifa/12464.pdf",
+    "sha256": "db3098f4ded0211633f2243b6c700f598a5cb5054136d379050ac50815fec889"
+  },
+  {
+    "path": "raw/fifa/12464.txt",
+    "sha256": "c7f1def176c17d0a265641583b55a7d1d5fe9b1fd5228af71409c20cf44e46b5"
+  },
+  {
+    "path": "raw/fifa/12465.pdf",
+    "sha256": "63e5d6a5b3478d6965fbf6269206a488ea5f4fe4253ab18799ed68e504323bb3"
+  },
+  {
+    "path": "raw/fifa/12465.txt",
+    "sha256": "34514ef215fc5a84fc5e1586fc3f230e520acb3fcf5f63b857fdccf823d21fdf"
+  },
+  {
+    "path": "raw/fifa/12466.pdf",
+    "sha256": "4e081391aca1767d7bbb7b77389c292736dc9ed6ef9dd79a86918b97f1adc1ea"
+  },
+  {
+    "path": "raw/fifa/12466.txt",
+    "sha256": "2dcbd4a1137be014a4e462b290aeec3e70fbfc8f218cd3265b83da0a24898470"
+  },
+  {
+    "path": "raw/fifa/12467.pdf",
+    "sha256": "00f9387a2473797d199b66ffb3726645b6cd94a902097aa6f28b9bd6ef3236b7"
+  },
+  {
+    "path": "raw/fifa/12467.txt",
+    "sha256": "d71dbd2aa72b9a04bfd2522074e596397b708c641d92f79d7755b1a073dc7e2b"
+  },
+  {
+    "path": "raw/fifa/12468.pdf",
+    "sha256": "7ee91009e5b9e08a4f789ad41e302c2a127560b30bafa0e71bba0ffeeff4c022"
+  },
+  {
+    "path": "raw/fifa/12468.txt",
+    "sha256": "37531585e8bbcf4cf0a05226dfcbf5033f68b85d2180a08561ae3e82a544eee4"
+  },
+  {
+    "path": "raw/fifa/12469.pdf",
+    "sha256": "698e0b49b33866568f4a28d87ec8c571c5bb0d2636a8d0b4e9257993d8fe8a35"
+  },
+  {
+    "path": "raw/fifa/12469.txt",
+    "sha256": "f97a0326ae2ca39f4d3d2acf5bdac65b0bc0ab86a17d5e3cf8460e69533f39d2"
+  },
+  {
+    "path": "raw/fifa/12470.pdf",
+    "sha256": "34e5e796a9694c5270c028ab45f6e68898b0ae582c84fddd27de40427e2a0667"
+  },
+  {
+    "path": "raw/fifa/12470.txt",
+    "sha256": "88a2d543b2e19d4e4764b0dbd13d76505208838180fa491e75f059736189814d"
+  },
+  {
+    "path": "raw/fifa/12471.pdf",
+    "sha256": "a2964d7115ee4714d4b350cd65d3d68df3c6d01582f3a889f252b4a6774bbe18"
+  },
+  {
+    "path": "raw/fifa/12471.txt",
+    "sha256": "c99d7f2ce6be4a3577f61821e7c2533e344efc5ad2f0ccb7d55b4f5c0317276f"
+  },
+  {
+    "path": "raw/fifa/12472.pdf",
+    "sha256": "72c32015a633681428b208764f117502e30cb0e4010b50be0f4212c22a5d8a81"
+  },
+  {
+    "path": "raw/fifa/12472.txt",
+    "sha256": "53b0cecef8e8ab8030f827776bc43b965d469e20e43f096d4491ad8586711eec"
+  },
+  {
+    "path": "raw/fifa/12473.pdf",
+    "sha256": "3f2f046ddf1a58a46ad1611f9c8dee78832fc1e09cc9a3714e8dc480cc9336c0"
+  },
+  {
+    "path": "raw/fifa/12473.txt",
+    "sha256": "7cded6224bca259fdbb8f4d5ebdce14aebce86f7084dea8068f2afd4e60bff5c"
+  },
+  {
+    "path": "raw/fifa/12474.pdf",
+    "sha256": "a00b2499156397e52094e71ea4bf8cf3929e21f123aae12f788fb3b6e5c89c78"
+  },
+  {
+    "path": "raw/fifa/12474.txt",
+    "sha256": "96a0ae49962297c5ff8bd0b8f4ddbd193f052c7465b2f9e6cbf4660084ed916d"
+  },
+  {
+    "path": "raw/fifa/12475.pdf",
+    "sha256": "84cc715af95dcc66b6945e5b136c17418c9149b5b581476e5615aa19b61a0b53"
+  },
+  {
+    "path": "raw/fifa/12475.txt",
+    "sha256": "51787a741f76e42ea0f8a20fde754a37317861fdf994d2247488cf39baf198e8"
+  },
+  {
+    "path": "raw/fifa/12476.pdf",
+    "sha256": "e70cd2dd9db966c6c1be8a54cf54b851af491c2cec749a4420aa6c0f3bfe1e62"
+  },
+  {
+    "path": "raw/fifa/12476.txt",
+    "sha256": "1242544f9d1c354b1af523f04ca81ad41e75450555522db6d82480453a0e09b0"
+  },
+  {
+    "path": "raw/fifa/12477.pdf",
+    "sha256": "9371c3e2daac6ec0736399684012bbbf7f3a4cdca58607aca1290513dba995af"
+  },
+  {
+    "path": "raw/fifa/12477.txt",
+    "sha256": "aaccaa2a955c115386a6fd130c64dac84df0cab725032eaa04b5015e8a0e30c1"
+  },
+  {
+    "path": "raw/fifa/12478.pdf",
+    "sha256": "572a118ddabc1c21b1d0264057fb15de29379a2f3a0d8956690479e903f5f54e"
+  },
+  {
+    "path": "raw/fifa/12478.txt",
+    "sha256": "471a88c94bb5a74760e093e6e6027c1594648c92ccedc55abd9cdb92109c832f"
+  },
+  {
+    "path": "raw/fifa/12479.pdf",
+    "sha256": "d561bf3875e218bc33497f0c52ae2f36a342f3fc42ca45bdbd23bad50a704e77"
+  },
+  {
+    "path": "raw/fifa/12479.txt",
+    "sha256": "0f758c222774861420958e011972af371f26d70da8a3b2f9267f24f0282a8dae"
+  },
+  {
+    "path": "raw/fifa/12480.pdf",
+    "sha256": "bcd72c35018bbb67c35b4b1ab56606af2996e80172d81fd977cafb06f3018bb7"
+  },
+  {
+    "path": "raw/fifa/12480.txt",
+    "sha256": "1f7649e4b99e0653309aa42dd3f275d0186d0f9380814e1be8d74ed9911a3689"
+  },
+  {
+    "path": "raw/fifa/12481.pdf",
+    "sha256": "b6d506af25739fd630e76cc20faae914a6c07ce5ecd1cc1a7271bbba96053c99"
+  },
+  {
+    "path": "raw/fifa/12481.txt",
+    "sha256": "a5823c3f9dc3f3b8363631f2514c0f33efa07d6a9241d6d2513c3055d2b195e3"
+  },
+  {
+    "path": "raw/fifa/12482.pdf",
+    "sha256": "b5fec21c5080b5262f6d4ca038a43f0846ea85ae39cc5c57c07a0aad6f2dad16"
+  },
+  {
+    "path": "raw/fifa/12482.txt",
+    "sha256": "27aaa4cb26eacbedebbdd22184ae61268212794ccb7c60b96ee8a0022e814280"
+  },
+  {
+    "path": "raw/fifa/12483.pdf",
+    "sha256": "d402431fe3f8e23f48c4b29594cb9d06edc25670bc78645b35abee30c273fa36"
+  },
+  {
+    "path": "raw/fifa/12483.txt",
+    "sha256": "3e2163701819e8f1c56933dc42465cff96fa76d83a7556bbceab820f4c4ce971"
+  },
+  {
+    "path": "raw/fifa/12484.pdf",
+    "sha256": "e6e29ebe4e6ccf21dd34a10773c033143ca9796b73025c3005748f2d64b9c87d"
+  },
+  {
+    "path": "raw/fifa/12484.txt",
+    "sha256": "45b8b73e3bf7b08729bd94e56ffd378c8507c1905cf99a128bb29cb948017aa9"
+  },
+  {
+    "path": "raw/fifa/12485.pdf",
+    "sha256": "3a6092ba9b4c97c17807851c958d9e96fdaaa727b91baa6beb37c9fa8b5f245b"
+  },
+  {
+    "path": "raw/fifa/12485.txt",
+    "sha256": "fbfc812dca721220dbfc829a2429b9a5faf22bef330481fa710e36061efe037a"
+  },
+  {
+    "path": "raw/fifa/12486.pdf",
+    "sha256": "fd1bb7508963525edc41a146f1c113dbca5287f3f58502f14710853fafbbacf3"
+  },
+  {
+    "path": "raw/fifa/12486.txt",
+    "sha256": "99f2af877e94a7e057886db557ddc366f5cefd499e9d0b0046a818a1ca10a0fb"
+  },
+  {
+    "path": "raw/fifa/12487.pdf",
+    "sha256": "6a879e14d22a6253a0ceea373494d7e36c40bfc06f1b4acba0d200853627201b"
+  },
+  {
+    "path": "raw/fifa/12487.txt",
+    "sha256": "b93fa735db981f3a91a7b1f4ec1fadcde6d89793958d09a5b79740dc9fc064b0"
+  },
+  {
+    "path": "raw/fifa/12488.pdf",
+    "sha256": "a130129f6f6e2fc68e193c17d0cb611e03e68a2858cfc9d06d908b4181bcb86f"
+  },
+  {
+    "path": "raw/fifa/12488.txt",
+    "sha256": "6f6ffc83cb1bb329411cd376e55a343cae28df826e67d8a4bb03affa36874d3b"
+  },
+  {
+    "path": "raw/fifa/12489.pdf",
+    "sha256": "4991d026028f18f6f7eac921b631c859494ed2eb30fb07315e0f9f92f48b682f"
+  },
+  {
+    "path": "raw/fifa/12489.txt",
+    "sha256": "d0e7af0e0ea5d0e30da3bfe4e3d9e2da64425bcad669e92f51cd27d80e06df0a"
+  },
+  {
+    "path": "raw/fifa/12490.pdf",
+    "sha256": "0778702e926036ac7c911e512130f6677e70c4c394e01182c774ffb91c931b88"
+  },
+  {
+    "path": "raw/fifa/12490.txt",
+    "sha256": "df338ca34ccd15b42b7ba053b8bd9d40ff56f631fab6f17c147406a843eb587d"
+  },
+  {
+    "path": "raw/fifa/12491.pdf",
+    "sha256": "3baeaadb5f0bea1ed17af30e81974535ae9f3e180c9194280e0e20b16a921035"
+  },
+  {
+    "path": "raw/fifa/12491.txt",
+    "sha256": "b841f50416924134eb02d3d49a320787768cd11a8783147d33752ed3977b0579"
+  },
+  {
+    "path": "raw/fifa/12492.pdf",
+    "sha256": "28f752eccd39ed590f4ceb46349a8edd6f0f7f00b4dd57ca99e48829691f3866"
+  },
+  {
+    "path": "raw/fifa/12492.txt",
+    "sha256": "b69c01bdd8667ee929fbb6433e73b8b068153a18fdef25a5e53b94b852ecd869"
+  },
+  {
+    "path": "raw/fifa/12493.pdf",
+    "sha256": "00d4dedf4f95bef956a0e07ec00f641523f82fea74ef03b3e5085605a13763ee"
+  },
+  {
+    "path": "raw/fifa/12493.txt",
+    "sha256": "71dc5020d6e0fbc9e51c131532169db18b19b0eb4ce10baade2c72ed79ce9ffe"
+  },
+  {
+    "path": "raw/fifa/12494.pdf",
+    "sha256": "bd1afd51666ad87c71cb49d20baeecaf8f0499108d147ddc11b6fdfa8494ee7c"
+  },
+  {
+    "path": "raw/fifa/12494.txt",
+    "sha256": "74bbeb70d8b0ee24729986960f85707e81275ab9889638164a91e4bc8ba834ee"
+  },
+  {
+    "path": "raw/fifa/12495.pdf",
+    "sha256": "2bd5cf2ca4e80c777a10685fd485e8765e23b6721a8510bc51d181999515fa36"
+  },
+  {
+    "path": "raw/fifa/12495.txt",
+    "sha256": "f28c47d0c188698c4f9d0dcda791695f9442be7364d1a5131df14ba256794964"
+  },
+  {
+    "path": "raw/fifa/12496.pdf",
+    "sha256": "28313259835350dbf6f452a5e83854c284b6550858370d4478016706c0506ba1"
+  },
+  {
+    "path": "raw/fifa/12496.txt",
+    "sha256": "d935f279896cd84d11d4c849f07c5a9c8ef23ae322c578b6903f24a18cfd7ede"
+  },
+  {
+    "path": "raw/fifa/12497.pdf",
+    "sha256": "c630ecbb8e8ef64ad831835e3d6a69c963b5ef9442356ca97e6f6c0064b78241"
+  },
+  {
+    "path": "raw/fifa/12497.txt",
+    "sha256": "59a777bb8daf463316ba2e548c50a1716aa4e8b25bf966bcdc1a1db56de1a068"
+  },
+  {
+    "path": "raw/fifa/12498.pdf",
+    "sha256": "6c850a66be56588a7881934a39d0c0f30ee8fa42cd5f176ad296b78bb6bc358e"
+  },
+  {
+    "path": "raw/fifa/12498.txt",
+    "sha256": "0ede2f1f4283fa7ac030422441a11f00869e17b2155eff9c9daed5e3836caa94"
+  },
+  {
+    "path": "raw/fifa/12499.pdf",
+    "sha256": "593fcceb57b2a9a89770c31511aaaba174be7427da53b0d8e48bc0f8f58e7077"
+  },
+  {
+    "path": "raw/fifa/12499.txt",
+    "sha256": "91a688bd81b1905fcb8c6f72916d20df9f539ac3f852a0adb46675c4c6fd82c3"
+  },
+  {
+    "path": "raw/fifa/12500.pdf",
+    "sha256": "d7cd4cdedfb1a2e9b539b7c0a239b0c7058eaa584733c6009c092a39bf0a56d7"
+  },
+  {
+    "path": "raw/fifa/12500.txt",
+    "sha256": "7f0f474c178b69e92f4ba18768863f5b5131fed560c7cb4df23fcd4671b3c8e0"
+  },
+  {
+    "path": "raw/fifa/12501.pdf",
+    "sha256": "a19a659f3375b1fefc937145f37b6de38bb4f13cf3aa11f547831c5ea97b3b72"
+  },
+  {
+    "path": "raw/fifa/12501.txt",
+    "sha256": "30c1251b12a6f25a4150aa5c437d375f926cb8880ba7f1e581eca39c4eea8009"
+  },
+  {
+    "path": "raw/fifa/12502.pdf",
+    "sha256": "4bc768664081f76b89e083b7ae0da5bf4d2e71e14ebc2a02d70fbb49bc43462b"
+  },
+  {
+    "path": "raw/fifa/12502.txt",
+    "sha256": "2be34ab51f0e0c4615c56e9732e49748f256c5bbc3f2475f3f7c3821764dc7ab"
+  },
+  {
+    "path": "raw/fifa/12503.pdf",
+    "sha256": "20ce29003a9a134b29f5db9917aba72b0bd6965929d3653dce0431f3892626ab"
+  },
+  {
+    "path": "raw/fifa/12503.txt",
+    "sha256": "e7b66514cef1037cc4cd8a561907dfec5f12d3585e00ca8f0ff7dbbd37ebfdb9"
+  },
+  {
+    "path": "raw/fifa/12504.pdf",
+    "sha256": "c3f12283950bdfd311315c1fbee6286942e93d10f146247badaec000c60077c1"
+  },
+  {
+    "path": "raw/fifa/12504.txt",
+    "sha256": "9f8a564eca0af4a1c39f038a62a073a53c40f3696383bb2855de39f6f4adac5f"
+  },
+  {
+    "path": "raw/fifa/12505.pdf",
+    "sha256": "24f13351ce7719d41ea70a5a841fe020f7cd66e04956bc32e2b01c0265f6da78"
+  },
+  {
+    "path": "raw/fifa/12505.txt",
+    "sha256": "98c7d120af26109a3394e1dbcb7876daa6758d19db9640f320378a00524f27a9"
+  },
+  {
+    "path": "raw/fifa/12506.pdf",
+    "sha256": "b7235ade2cc72166760a62be6627ba411d75acdf036c85746f2b7caab166352c"
+  },
+  {
+    "path": "raw/fifa/12506.txt",
+    "sha256": "76e4b67abef5a8dc93ae1153c2497b58068521b1040e7b744a1b8fb62f61fff9"
+  },
+  {
+    "path": "raw/fifa/12507.pdf",
+    "sha256": "97a091c5f2995caeee24a29cb47d73623b194249b1af2ca5ee86abf10ddc5877"
+  },
+  {
+    "path": "raw/fifa/12507.txt",
+    "sha256": "80577e065f3c80a88df6ac45b3401497f6cd94f8625b5b8c73199b152027174e"
+  },
+  {
+    "path": "raw/fifa/12508.pdf",
+    "sha256": "a0746acc9bca1d09586c4fa3d862dc2b26714cb6f751fca918b07770dd968931"
+  },
+  {
+    "path": "raw/fifa/12508.txt",
+    "sha256": "bb4a70f0a6a4398bfc3b106bcc4b5f129c74a87bc47bfefb8e82dbdd8654a209"
+  },
+  {
+    "path": "raw/fifa/12509.pdf",
+    "sha256": "fd6ab95bf1a50d8d87afe0903aae33ffe479770fa0828efd7453c8d73edee144"
+  },
+  {
+    "path": "raw/fifa/12509.txt",
+    "sha256": "dbd586bb628c89c64570a37ef69e535a53225358f047b7c78661bca159304f5e"
+  },
+  {
+    "path": "raw/fifa/12510.pdf",
+    "sha256": "0d2e9d89229a8ed328d8c71f4cef8892c146c94551dcfc33d59c5330d3d4fedc"
+  },
+  {
+    "path": "raw/fifa/12510.txt",
+    "sha256": "3afe3ddf0b255fb07ab5348885f32b984ffdf3dc1230b665bdee4a2d6d760dda"
+  },
+  {
+    "path": "raw/fifa/12511.pdf",
+    "sha256": "08caa87bf503b45d51a8eb16c0eb545401f81865352d964c91d979e6aae4539d"
+  },
+  {
+    "path": "raw/fifa/12511.txt",
+    "sha256": "9cb998c24ef0265f69d3598cf874802190b3a226b4589e785748a085a527aff7"
+  },
+  {
+    "path": "raw/fifa/12512.pdf",
+    "sha256": "367431fe4bc311dce15d300c95e45b8ee870c21a66b4a1b5a629d90cd91d7727"
+  },
+  {
+    "path": "raw/fifa/12512.txt",
+    "sha256": "22e1bc11f27f316e597c45d7efbb8161a66e0e46e5e7a39923271bb778fc1ae9"
+  },
+  {
+    "path": "raw/fifa/12513.pdf",
+    "sha256": "15bd19e33b99a601363c9e0499ebf2da673d349c67b0991faa11fa8e7ab93c7a"
+  },
+  {
+    "path": "raw/fifa/12513.txt",
+    "sha256": "61476dc414f72d08ba4daddbad3e65931a90911f26b1ab528ec5cdc70e699cfc"
+  },
+  {
+    "path": "raw/fifa/12514.pdf",
+    "sha256": "b7684eff570aa9c6c3747fb7d1ef9d554b710c7bc963d76a2a31edd8f36a1163"
+  },
+  {
+    "path": "raw/fifa/12514.txt",
+    "sha256": "0870b9478ed7cdd4858968035ccd7df8d9f99760987e2dab873d552e584f2dae"
+  },
+  {
+    "path": "raw/fifa/12515.pdf",
+    "sha256": "cb59e39f19790127061c4a5411d0413f1e9c606cbfeaf491b5bab6007dff71fe"
+  },
+  {
+    "path": "raw/fifa/12515.txt",
+    "sha256": "be2bf97d56ca7c6c9aabda3405f18c45dd1130a1c2f656d9867c8e64499cf989"
+  },
+  {
+    "path": "raw/fifa/12516.pdf",
+    "sha256": "dc3545d6de91983cbfd58f0fb4d536b60e37c5201d76127bdae21caae264ff63"
+  },
+  {
+    "path": "raw/fifa/12516.txt",
+    "sha256": "540b43df91eb510b3f7c9be7d612576c0dee8510585f31744f20ed7329646c09"
+  },
+  {
+    "path": "raw/fifa/12517.pdf",
+    "sha256": "42cc289392138faf4ac7ab92dc98f94fb3dfdad8691a5dafae631e6683541528"
+  },
+  {
+    "path": "raw/fifa/12517.txt",
+    "sha256": "7863ef27fa79e811d5a869de62d82b51aa4ae9efe709affae4f4fbd4aaac3c8b"
+  },
+  {
+    "path": "raw/fifa/12518.pdf",
+    "sha256": "0f5ad120f7978ae8ce9e754f55f2e2983e6d54f021768e006535d9bf7011f9db"
+  },
+  {
+    "path": "raw/fifa/12518.txt",
+    "sha256": "53b659c58dea72bebafa686d451fc35ced415a319b034eae1aa74fb508c301f0"
+  },
+  {
+    "path": "raw/fifa/12519.pdf",
+    "sha256": "323958d1fa4b331824185a1b707a2d5ed37dbf1e35a52a6009e5ca015657bfaf"
+  },
+  {
+    "path": "raw/fifa/12519.txt",
+    "sha256": "fd8ed9c9ecc7256d29a81d9069d48d1cbe0d13de24bb70cb0f3f55aae288c155"
+  },
+  {
+    "path": "raw/fifa/12520.pdf",
+    "sha256": "8e7e82d1a64bb008ee97da2a4ac079070745ac877932a602794cd122f84055d5"
+  },
+  {
+    "path": "raw/fifa/12520.txt",
+    "sha256": "ac35e6a42182991b9b362794d0f54a5ad49570a5ef1c8e668a1f033a3f481a0e"
+  },
+  {
+    "path": "raw/fifa/12521.pdf",
+    "sha256": "a902d13cbbc5653d18e44c53556526acabb3074846dfb583e56246dbcacbeaa8"
+  },
+  {
+    "path": "raw/fifa/12521.txt",
+    "sha256": "ef14909b18a76c56b6003276afd94ec09b248c6a6e116756d57b4ca00605f076"
+  },
+  {
+    "path": "raw/fifa/12522.pdf",
+    "sha256": "1513c3ac5f2c0782d571ddf4d388de77da1fac623490b643117ef26a6ba4670f"
+  },
+  {
+    "path": "raw/fifa/12522.txt",
+    "sha256": "118e6fda4899350ba1c1e26f408653a611262fbc2923affa022016962b5a4d7b"
+  },
+  {
+    "path": "raw/fifa/12523.pdf",
+    "sha256": "5269c9f9ec1e5f278a5e7a8e09db6cc5d4a015c5021653aa6d7ea2ae1471edd5"
+  },
+  {
+    "path": "raw/fifa/12523.txt",
+    "sha256": "031b7c7f4503484b42ae5294935c3e769f74d9af2c7f13fa6afdcf38e91946c2"
+  },
+  {
+    "path": "raw/fifa/12524.pdf",
+    "sha256": "16d95d2a815076d0c70b48c38020ab53bc610a4a54ad5c9a76a3992dff935097"
+  },
+  {
+    "path": "raw/fifa/12524.txt",
+    "sha256": "dec9f26283b85a172e5d6e303735708f08b128f9ef4079e23ed2c0d3e26094de"
+  },
+  {
+    "path": "raw/fifa/12525.pdf",
+    "sha256": "4235529d5467333620d0b3558a99d87766fe97e6d650e8142c9767451bf440be"
+  },
+  {
+    "path": "raw/fifa/12525.txt",
+    "sha256": "79f57df06cbd67d46ce7cd9d230cd2a28483369a7d42eb30e6847ce17367b5db"
+  },
+  {
+    "path": "raw/fifa/12526.pdf",
+    "sha256": "8305bb8bf91f1947cd91277bd52741616330caf726c09d1ac34857168e038688"
+  },
+  {
+    "path": "raw/fifa/12526.txt",
+    "sha256": "659f32b80a94ada6483f209fe7605e5c1f07f52f2a227d8a15444189bca8a85d"
+  },
+  {
+    "path": "raw/fifa/12527.pdf",
+    "sha256": "962bccbe66d07604d3004df02f90d7824d4bbebc3399e330e290a58e05168cbc"
+  },
+  {
+    "path": "raw/fifa/12527.txt",
+    "sha256": "8815897c4a1c1e5e413913850a09bddd2e082e4d36e61bcf7c4b4aef48689455"
+  },
+  {
+    "path": "raw/fifa/12528.pdf",
+    "sha256": "8b3cd75379341d987892519c4757f8e78a9a8af4c78fae3791a54647319382aa"
+  },
+  {
+    "path": "raw/fifa/12528.txt",
+    "sha256": "51e92f29843eeaa5e31271c9211f67ab2aa601cbbdf3b7199f97adfdba3b6d26"
+  },
+  {
+    "path": "raw/fifa/12529.pdf",
+    "sha256": "b799a659fdd62a8e989eb22cd039866a81284e28e95df589cf38d788808a4c7d"
+  },
+  {
+    "path": "raw/fifa/12529.txt",
+    "sha256": "7a2165fd42719cc330090e10de5643870c1e39cd598b9ac6173fc01a1a98fae3"
+  },
+  {
+    "path": "raw/fifa/12530.pdf",
+    "sha256": "8036452f7df5f05d46ede6f62a64eafc70dd6c3cbe43301276602e952db23f95"
+  },
+  {
+    "path": "raw/fifa/12530.txt",
+    "sha256": "3ba2d01369dddcdf7e5e050faa6b1eb963ff65d9b4dfcb9ec497ffcc5cf4a07a"
+  },
+  {
+    "path": "raw/fifa/12531.pdf",
+    "sha256": "e43c43e7394a78ab94dfc4906f75c27f4e2d062efed2de6b1cb929877028872f"
+  },
+  {
+    "path": "raw/fifa/12531.txt",
+    "sha256": "9fe916a2519963edc97a2589edd563fe3cc088ec291356a6fe2b212ff7d26f57"
+  },
+  {
+    "path": "raw/fifa/12532.pdf",
+    "sha256": "020ffb1f5bb9ae4b62ea45183619a846995dd0dba911c3261b9c7ac46752f3e1"
+  },
+  {
+    "path": "raw/fifa/12532.txt",
+    "sha256": "2fdef277f067509187458bdf3bdd5a0542054e61c5948635564b0feaeebace69"
+  },
+  {
+    "path": "raw/fifa/12533.pdf",
+    "sha256": "85e868831a096aaa7756ff005dfbbdaf0d15e6e4daca5ebc6d9baa9d0ee5ece4"
+  },
+  {
+    "path": "raw/fifa/12533.txt",
+    "sha256": "14b45bc2f27656f45e1e222bd596f91ed258427599fec24606b1c4e371b9a86f"
+  },
+  {
+    "path": "raw/fifa/12534.pdf",
+    "sha256": "b969db81645c02a022fd1c38d9f2fcaa0497a0b855a2294b3d1c09de60b9a028"
+  },
+  {
+    "path": "raw/fifa/12534.txt",
+    "sha256": "476197041f3f339915e705e4650ef2b043d429b5d7f1a748cb175a8916b5ca40"
+  },
+  {
+    "path": "raw/fifa/12535.pdf",
+    "sha256": "7353583fabac895990ad2faf3a6bdf52faf439b071cdb7a8c7d347ca81e98978"
+  },
+  {
+    "path": "raw/fifa/12535.txt",
+    "sha256": "7b10b71b743e61eeb8e2afd192dae00dbd393a2ffd361d976cc17730c1467465"
+  },
+  {
+    "path": "raw/fifa/12536.pdf",
+    "sha256": "4cbb7be0e3be96ff825a7b2d657313af739729e59785401abfc454cd8be5afcc"
+  },
+  {
+    "path": "raw/fifa/12536.txt",
+    "sha256": "9259a0a81699bb57f72d84de5594d2e1825f3850b1d5d80e2e62af89e064c334"
+  },
+  {
+    "path": "raw/fifa/12537.pdf",
+    "sha256": "1d36110aa949c938c37f4d44d712be15593b5d56ff38f7ae5d69e85cc63c6bf8"
+  },
+  {
+    "path": "raw/fifa/12537.txt",
+    "sha256": "c3709ae62aa368a2d83989ca4b6c1be6186ad411ae9a7a3cea174379c542372c"
+  },
+  {
+    "path": "raw/fifa/12538.pdf",
+    "sha256": "a3ca486f89eb7082b9123dd2e7bcd4d6aefd4fdd5e7f028dc17c08ca0bea2cc5"
+  },
+  {
+    "path": "raw/fifa/12538.txt",
+    "sha256": "2e222508dc3ab8d4021d04b6478bca991fefe5098e59026dd68bda926235e7dc"
+  },
+  {
+    "path": "raw/fifa/12539.pdf",
+    "sha256": "5d4bce413e8ba51173f4c111ed5f31bb10c65e001ddf75a5f7f69c4fa76f27fa"
+  },
+  {
+    "path": "raw/fifa/12539.txt",
+    "sha256": "8bd9917e78f2f24ea27dae24dd9b44d3b959a0faf89dcea1618daf5fbb558234"
+  },
+  {
+    "path": "raw/fifa/12540.pdf",
+    "sha256": "2e5a10e3455f8a5989b424eed593491cac93dae8bb3b11442ae15233a7c90636"
+  },
+  {
+    "path": "raw/fifa/12540.txt",
+    "sha256": "0abab5fba961e1accb1ec800ef65f9248c9284a230df0ae384b14885d86333b1"
+  },
+  {
+    "path": "raw/fifa/12541.pdf",
+    "sha256": "dd2af12ed36f9c4dc9b59da1936e566e786f846437106ec69120a5ee7cb4bf33"
+  },
+  {
+    "path": "raw/fifa/12541.txt",
+    "sha256": "8669b4e542df01524dff3f316c109dcffbb9f52f12072eeb44715bdf579141dc"
+  },
+  {
+    "path": "raw/fifa/12542.pdf",
+    "sha256": "1da61d1f5ae9e396c53b5f115fcabbb55ff5010c1668192138eea015f7310dec"
+  },
+  {
+    "path": "raw/fifa/12542.txt",
+    "sha256": "0eee92daf9a8d833055fcd15bb49f5191e17cb9a2888c732c0a5053a555bc206"
+  },
+  {
+    "path": "raw/fifa/12543.pdf",
+    "sha256": "aab51dc380eff0040a23a37c6e1f0f88358e0b3178476396315c0b6f096c4c02"
+  },
+  {
+    "path": "raw/fifa/12543.txt",
+    "sha256": "84d8295c3f1018bddf73dcb32f3c703824e145ce1ce4621e29825b990de40c9d"
+  },
+  {
+    "path": "raw/fifa/12544.pdf",
+    "sha256": "f68e2a133d69b494442ef979085aef66de9a3de38b2e3da393ce202b8ade5e44"
+  },
+  {
+    "path": "raw/fifa/12544.txt",
+    "sha256": "110aedf7c04dc2a6c9f702819d9d1b50c5f0bd4b502e7331facc482509ffb085"
+  },
+  {
+    "path": "raw/fifa/12545.pdf",
+    "sha256": "96a628c0ed333b7330fe9621a374f5bf556c14712c0741a1d191ead0aafd05cb"
+  },
+  {
+    "path": "raw/fifa/12545.txt",
+    "sha256": "38bb2db9c465f715093e5d4e0662c4769241431de6bbc5acb85be0db1c21310c"
+  },
+  {
+    "path": "raw/fifa/12546.pdf",
+    "sha256": "052e45daed9408e15d00da458322d0adece4b52d1d7e19ee61133132ef614827"
+  },
+  {
+    "path": "raw/fifa/12546.txt",
+    "sha256": "2aeb876852fde026c9d3291bdff3f698a5789e4a0d91b573993a5574fd6374d8"
+  },
+  {
+    "path": "raw/fifa/12547.pdf",
+    "sha256": "ebe4cae78fdaf7813064f4f02cf404386fcea386aaa6d0f80a82bc741f1a559c"
+  },
+  {
+    "path": "raw/fifa/12547.txt",
+    "sha256": "4f0fb2e74fda896323f19465e1ade9c4e879bd0ac691149a752f19010ad572d8"
+  },
+  {
+    "path": "raw/fifa/12548.pdf",
+    "sha256": "9426e2a8592ed8ebb4b0bd63f997723060021ea7a02fe10faca2c6ed0cbf3dad"
+  },
+  {
+    "path": "raw/fifa/12548.txt",
+    "sha256": "6c6624369d9dc08ccad8b5972cff7e8c6967da9267e37c5b767578d79e1641fd"
+  },
+  {
+    "path": "raw/fifa/12549.pdf",
+    "sha256": "e40add5250dc334c72aa9a9b7440ca4728d2a473c825fb26a235c9183b57512e"
+  },
+  {
+    "path": "raw/fifa/12549.txt",
+    "sha256": "cba87c991b9fb0f65e276cd0149e7c031cf9edb8ee58dc94f80c8e2b3a5a6c78"
+  },
+  {
+    "path": "raw/fifa/12550.pdf",
+    "sha256": "13d211b03fd0b0cfb92e972a7fbb7610f8657e472c05deb38d4db5b1475e4b54"
+  },
+  {
+    "path": "raw/fifa/12550.txt",
+    "sha256": "0b3b99892329a5c7281e9796bf870063670b7b1d188c4c8ae5575070f67c0a2f"
+  },
+  {
+    "path": "raw/fifa/12551.pdf",
+    "sha256": "d1b66724bea03a95dbe5b47ad821fe90234aa75e482e1b9021f12bebd18003b8"
+  },
+  {
+    "path": "raw/fifa/12551.txt",
+    "sha256": "6ac5fd0f3013dc1d21c7c43e6995ed6099b4c8fe471a51b1c69a3e39d8f5f995"
+  },
+  {
+    "path": "raw/fifa/12552.pdf",
+    "sha256": "05ff528e29d5afba7aa1681d9a3060d9635f78f87988d94dde97b073be302c9a"
+  },
+  {
+    "path": "raw/fifa/12552.txt",
+    "sha256": "1df131636db8e446e7e732afdc0f3c9cacd29ead12dcbfef04aa0bca20fc4998"
+  },
+  {
+    "path": "raw/fifa/index.json",
+    "sha256": "192d965a687d2faff54704c4865ee7b62219e790c9748770930afdee449391e9"
+  },
+  {
+    "path": "raw/history.csv",
+    "sha256": "df35268f8fc341ff7fb93d448b4e40356676ac35300a6b4461fd199a99ac1514"
+  },
+  {
+    "path": "raw/history_README.md",
+    "sha256": "0d50b5f6fe2b658eba52a4477e4e48af6ca61e89e2c5265b153e3c12d7305b76"
+  }
+]
