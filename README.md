@@ -19,7 +19,7 @@ You can also inspect the saved outputs directly in the [2.1 notebook](Regression
 - **Regression_2.1:** goal-difference analysis.
 - **Regression_2.2:** team-goals analysis.
 
-In each regression folder, `analysis.ipynb` is the explained notebook with outputs. `analysis.py` contains the same analysis as a standalone script; you only need to run one version. Generated files go into that regression's `outputs/` folder.
+Each regression folder contains one analysis notebook (`analysis.ipynb`) and its dependency list (`requirements.txt`). Generated files go into that regression's `outputs/` folder.
 
 ## Data and method
 
@@ -27,15 +27,13 @@ Sources are [FIFA match reports](Data/matches_fifa.csv) and [historical internat
 
 Both models use 82 earlier matches for training and 22 later matches for testing. The notebooks explain predictor choices, exploration, chronological cross-validation, regression diagnostics and comparisons with other methods. The separate group report summarises the findings and limitations.
 
-## Local use — optional
+## Rebuild the datasets — optional
 
-Install the dependencies in a virtual environment, then run:
+The notebooks use the included datasets. To rebuild and check them locally, install the dependencies in a virtual environment, then run:
 
 ```bash
 python -m pip install -r Regression_2.1/requirements.txt
 python Data/prepare_data.py
-python Regression_2.1/analysis.py
-python Regression_2.2/analysis.py
 python Data/validate_data.py
 ```
 
