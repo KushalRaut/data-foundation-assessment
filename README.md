@@ -18,7 +18,7 @@ Each required model has exactly eight predictors. Three predictor columns are id
 | Goal difference | [Open Regression 2.1 in Colab](https://colab.research.google.com/github/KushalRaut/data-foundation-assessment/blob/main/Regression_2.1/analysis.ipynb) | [GitHub notebook](Regression_2.1/analysis.ipynb) |
 | Team goals | [Open Regression 2.2 in Colab](https://colab.research.google.com/github/KushalRaut/data-foundation-assessment/blob/main/Regression_2.2/analysis.ipynb) | [GitHub notebook](Regression_2.2/analysis.ipynb) |
 
-GitHub displays a saved example run. Colab runs a new copy in a temporary cloud environment; use **Save a copy in Drive** to retain your own changes. Runtime availability and sign-in are controlled by Google. See the [official Colab FAQ](https://research.google.com/colaboratory/faq.html).
+GitHub displays a saved example run. Colab runs a new copy in a temporary cloud environment; use **Save a copy in Drive** to retain your own changes. Colab setup keeps compatible preinstalled packages to avoid replacing libraries already loaded in memory, and prints the versions used. Exact locally tested versions are recorded in each requirements file; minor numerical differences between versions are possible. Runtime availability and sign-in are controlled by Google. See the [official Colab FAQ](https://research.google.com/colaboratory/faq.html).
 
 ## Repository layout
 
